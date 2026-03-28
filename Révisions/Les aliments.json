@@ -1,0 +1,299 @@
+Les aliments
+
+[
+    {
+        "question": "Comment dit-on 'pomme' en espagnol ?",
+        "réponse": "manzana",
+        "moyen_mnémotechnique": "Imagine une pomme qui chante 'manzana' en dansant."
+    },
+    {
+        "question": "Comment dit-on 'poire' en espagnol ?",
+        "réponse": "pera",
+        "moyen_mnémotechnique": "Pense à 'Père Noël' qui mange une 'pera' à Noël."
+    },
+    {
+        "question": "Comment dit-on 'pêche' en espagnol ?",
+        "réponse": "melocotón",
+        "moyen_mnémotechnique": "'Melocotón' contient 'melo' comme dans 'melodie' : une pêche mélodieuse."
+    },
+    {
+        "question": "Comment dit-on 'orange' en espagnol ?",
+        "réponse": "naranja",
+        "moyen_mnémotechnique": "'Naranja' rime avec 'orange' et contient 'naran' comme 'narrateur' : une orange qui raconte des histoires."
+    },
+    {
+        "question": "Comment dit-on 'pastèque' en espagnol ?",
+        "réponse": "sandía",
+        "moyen_mnémotechnique": "'Sandía' contient 'sand' comme 'sable' : une pastèque sur la plage."
+    },
+    {
+        "question": "Comment dit-on 'mûre' en espagnol ?",
+        "réponse": "mora",
+        "moyen_mnémotechnique": "'Mora' ressemble à 'mure' en français, imagine une muraille de mûres."
+    },
+    {
+        "question": "Comment dit-on 'fraise' en espagnol ?",
+        "réponse": "fresa",
+        "moyen_mnémotechnique": "'Fresa' ressemble à 'fraise' et contient 'fres' comme 'frais'."
+    },
+    {
+        "question": "Comment dit-on 'cerise' en espagnol ?",
+        "réponse": "cereza",
+        "moyen_mnémotechnique": "'Cereza' contient 'cere' comme dans 'céréale'."
+    },
+    {
+        "question": "Comment dit-on 'citron' en espagnol ?",
+        "réponse": "limón",
+        "moyen_mnémotechnique": "'Limón' ressemble à 'limonade', qui est faite avec du citron."
+    },
+    {
+        "question": "Comment dit-on 'melon' en espagnol ?",
+        "réponse": "melón",
+        "moyen_mnémotechnique": "Le mot est presque identique en français et en espagnol."
+    },
+    {
+        "question": "Comment dit-on 'myrtille' en espagnol ?",
+        "réponse": "arándano",
+        "moyen_mnémotechnique": "'Arándano' contient 'rano' comme dans 'grenouille' (rana), imagine une grenouille bleue qui mange des myrtilles."
+    },
+    {
+        "question": "Comment dit-on 'raisin' en espagnol ?",
+        "réponse": "uva",
+        "moyen_mnémotechnique": "'Uva' est court et facile : imagine une grappe de raisin en forme de 'U'."
+    },
+    {
+        "question": "Comment dit-on 'ananas' en espagnol ?",
+        "réponse": "piña",
+        "moyen_mnémotechnique": "'Piña' ressemble à 'pine', comme l'ananas qui a des feuilles pointues comme un pin."
+    },
+    {
+        "question": "Comment dit-on 'banane' en espagnol ?",
+        "réponse": "plátano",
+        "moyen_mnémotechnique": "'Plátano' contient 'plat' : imagine une banane plate."
+    },
+    {
+        "question": "Comment dit-on 'mangue' en espagnol ?",
+        "réponse": "mango",
+        "moyen_mnémotechnique": "Le mot est identique en français et en espagnol."
+    },
+    {
+        "question": "Comment dit-on 'kiwi' en espagnol ?",
+        "réponse": "kiwi",
+        "moyen_mnémotechnique": "Le mot est identique en français et en espagnol."
+    },
+    {
+        "question": "Comment dit-on 'avocat' en espagnol ?",
+        "réponse": "aguacate",
+        "moyen_mnémotechnique": "'Aguacate' contient 'agua' (eau) et 'cate' comme dans 'catapulte' : un avocat qui catapulte de l'eau."
+    },
+    {
+        "question": "Comment dit-on 'prune' en espagnol ?",
+        "réponse": "ciruela",
+        "moyen_mnémotechnique": "'Ciruela' contient 'cir' comme dans 'cirque' : une prune qui fait le cirque."
+    },
+    {
+        "question": "Comment dit-on 'pain' en espagnol ?",
+        "réponse": "pan",
+        "moyen_mnémotechnique": "'Pan' est très proche du mot français, imagine un panier à pain."
+    },
+    {
+        "question": "Comment dit-on 'vin' en espagnol ?",
+        "réponse": "vino",
+        "moyen_mnémotechnique": "'Vino' ressemble à 'vin ô' : un vin qui dit 'oh'."
+    },
+    {
+        "question": "Comment dit-on 'soupe' en espagnol ?",
+        "réponse": "sopa",
+        "moyen_mnémotechnique": "'Sopa' ressemble à 'soupe' et contient 'opa' comme dans 'opéra' : une soupe qui chante à l'opéra."
+    },
+    {
+        "question": "Comment dit-on 'thé' en espagnol ?",
+        "réponse": "té",
+        "moyen_mnémotechnique": "Le mot est identique en français et en espagnol."
+    },
+    {
+        "question": "Comment dit-on 'sandwich' en espagnol ?",
+        "réponse": "sándwich",
+        "moyen_mnémotechnique": "Le mot est presque identique en français et en espagnol."
+    },
+    {
+        "question": "Comment dit-on 'eau' en espagnol ?",
+        "réponse": "agua",
+        "moyen_mnémotechnique": "'Agua' ressemble à 'eau' et commence par 'a' comme 'aquatique'."
+    },
+    {
+        "question": "Comment dit-on 'saumon' en espagnol ?",
+        "réponse": "salmón",
+        "moyen_mnémotechnique": "'Salmón' contient 'sal' comme dans 'saleté' : un saumon qui nage dans la mer salée."
+    },
+    {
+        "question": "Comment dit-on 'salade' en espagnol ?",
+        "réponse": "ensalada",
+        "moyen_mnémotechnique": "'Ensalada' contient 'salade' : pense à 'en salade'."
+    },
+    {
+        "question": "Comment dit-on 'poulet' en espagnol ?",
+        "réponse": "pollo",
+        "moyen_mnémotechnique": "'Pollo' ressemble à 'poulet' et contient 'polo', comme un poulet qui joue au polo."
+    },
+    {
+        "question": "Comment dit-on 'bœuf' en espagnol ?",
+        "réponse": "carne",
+        "moyen_mnémotechnique": "'Carne' signifie 'viande' en général, pense à 'carnivore'."
+    },
+    {
+        "question": "Comment dit-on 'noix' en espagnol ?",
+        "réponse": "nuez",
+        "moyen_mnémotechnique": "'Nuez' ressemble à 'nœud' : une noix qui fait un nœud dans un arbre."
+    },
+    {
+        "question": "Comment dit-on 'cacahuète' en espagnol ?",
+        "réponse": "cacahuete",
+        "moyen_mnémotechnique": "Le mot est identique en français et en espagnol."
+    },
+    {
+        "question": "Comment dit-on 'amande' en espagnol ?",
+        "réponse": "almendra",
+        "moyen_mnémotechnique": "'Almendra' contient 'amande' et 'al' comme dans 'allumette' : une amande en forme d'allumette."
+    },
+    {
+        "question": "Comment dit-on 'chou' en espagnol ?",
+        "réponse": "repollo",
+        "moyen_mnémotechnique": "'Repollo' contient 'pollo' comme 'poulet' : un chou qui ressemble à un poulet."
+    },
+    {
+        "question": "Comment dit-on 'maïs' en espagnol ?",
+        "réponse": "maíz",
+        "moyen_mnémotechnique": "'Maíz' contient 'maïs' et se termine par 'z' comme 'zèbre' : un champ de maïs avec des zèbres."
+    },
+    {
+        "question": "Comment dit-on 'haricot' en espagnol ?",
+        "réponse": "frijol",
+        "moyen_mnémotechnique": "'Frijol' contient 'fri' comme dans 'frit' : un haricot frit."
+    },
+    {
+        "question": "Comment dit-on 'pois' en espagnol ?",
+        "réponse": "guisante",
+        "moyen_mnémotechnique": "'Guisante' contient 'guise' comme dans 'déguisement' : un pois déguisé."
+    },
+    {
+        "question": "Comment dit-on 'brocoli' en espagnol ?",
+        "réponse": "brócoli",
+        "moyen_mnémotechnique": "Le mot est presque identique en français et en espagnol."
+    },
+    {
+        "question": "Comment dit-on 'carotte' en espagnol ?",
+        "réponse": "zanahoria",
+        "moyen_mnémotechnique": "'Zanahoria' contient 'zani' comme dans 'zany' (farfelu) : une carotte farfelue."
+    },
+    {
+        "question": "Comment dit-on 'poivron' en espagnol ?",
+        "réponse": "pimiento",
+        "moyen_mnémotechnique": "'Pimiento' contient 'piment' : un poivron qui pimente."
+    },
+    {
+        "question": "Comment dit-on 'piment' en espagnol ?",
+        "réponse": "chile",
+        "moyen_mnémotechnique": "'Chile' comme le pays, imagine un piment en forme de Chili."
+    },
+    {
+        "question": "Comment dit-on 'citrouille' en espagnol ?",
+        "réponse": "calabaza",
+        "moyen_mnémotechnique": "'Calabaza' contient 'cal' comme dans 'calcul' : une citrouille qui calcule."
+    },
+    {
+        "question": "Comment dit-on 'aubergine' en espagnol ?",
+        "réponse": "berenjena",
+        "moyen_mnémotechnique": "'Berenjena' contient 'bère' comme dans 'berceuse' : une aubergine qui berce."
+    },
+    {
+        "question": "Comment dit-on 'oignon' en espagnol ?",
+        "réponse": "cebolla",
+        "moyen_mnémotechnique": "'Cebolla' contient 'bola' (balle) : un oignon en forme de balle."
+    },
+    {
+        "question": "Comment dit-on 'ail' en espagnol ?",
+        "réponse": "ajo",
+        "moyen_mnémotechnique": "'Ajo' est court et facile, pense à 'ail ô' : un ail qui dit 'oh'."
+    },
+    {
+        "question": "Comment dit-on 'dinde' en espagnol ?",
+        "réponse": "pavo",
+        "moyen_mnémotechnique": "'Pavo' ressemble à 'pava' comme dans 'pavane' : une dinde qui danse la pavane."
+    },
+    {
+        "question": "Comment dit-on 'riz' en espagnol ?",
+        "réponse": "arroz",
+        "moyen_mnémotechnique": "'Arroz' contient 'roz' comme dans 'rose' : du riz en forme de roses."
+    },
+    {
+        "question": "Comment dit-on 'steak' en espagnol ?",
+        "réponse": "filete",
+        "moyen_mnémotechnique": "'Filete' contient 'filet' : un steak en filet."
+    },
+    {
+        "question": "Comment dit-on 'crevette' en espagnol ?",
+        "réponse": "gamba",
+        "moyen_mnémotechnique": "'Gamba' ressemble à 'jambe' : une crevette avec des jambes."
+    },
+    {
+        "question": "Comment dit-on 'fromage' en espagnol ?",
+        "réponse": "queso",
+        "moyen_mnémotechnique": "'Queso' ressemble à 'késako' : un fromage mystérieux."
+    },
+    {
+        "question": "Comment dit-on 'œuf' en espagnol ?",
+        "réponse": "huevo",
+        "moyen_mnémotechnique": "'Huevo' commence par 'hue', comme 'huer' (crier) : un œuf qui crie."
+    },
+    {
+        "question": "Comment dit-on 'pâtes' en espagnol ?",
+        "réponse": "pasta",
+        "moyen_mnémotechnique": "Le mot est presque identique en français et en espagnol."
+    },
+    {
+        "question": "Comment dit-on 'pizza' en espagnol ?",
+        "réponse": "pizza",
+        "moyen_mnémotechnique": "Le mot est identique en français et en espagnol."
+    },
+    {
+        "question": "Comment dit-on 'hamburger' en espagnol ?",
+        "réponse": "hamburguesa",
+        "moyen_mnémotechnique": "'Hamburguesa' contient 'hamburger' : facile à retenir."
+    },
+    {
+        "question": "Comment dit-on 'hot-dog' en espagnol ?",
+        "réponse": "perro caliente",
+        "moyen_mnémotechnique": "'Perro caliente' signifie 'chien chaud' : un hot-dog en forme de chien."
+    },
+    {
+        "question": "Comment dit-on 'café' en espagnol ?",
+        "réponse": "café",
+        "moyen_mnémotechnique": "Le mot est identique en français et en espagnol."
+    },
+    {
+        "question": "Comment dit-on 'bière' en espagnol ?",
+        "réponse": "cerveza",
+        "moyen_mnémotechnique": "'Cerveza' contient 'cerve' comme dans 'cerveau' : une bière qui donne des idées."
+    },
+    {
+        "question": "Comment dit-on 'champagne' en espagnol ?",
+        "réponse": "champán",
+        "moyen_mnémotechnique": "'Champán' ressemble à 'champagne' et se termine par 'án' comme 'année' : du champagne pour la nouvelle année."
+    },
+    {
+        "question": "Comment dit-on 'soda' en espagnol ?",
+        "réponse": "refresco",
+        "moyen_mnémotechnique": "'Refresco' contient 'frais' : un soda rafraîchissant."
+    },
+    {
+        "question": "Comment dit-on 'noix de cajou' en espagnol ?",
+        "réponse": "anacardo",
+        "moyen_mnémotechnique": "'Anacardo' contient 'cajou' et 'ana' comme dans 'ananas' : une noix de cajou en forme d'ananas."
+    },
+    {
+        "question": "Comment dit-on 'pistache' en espagnol ?",
+        "réponse": "pistacho",
+        "moyen_mnémotechnique": "Le mot est presque identique en français et en espagnol."
+    }
+]

@@ -1,0 +1,254 @@
+L'environnement 
+
+[
+    {
+        "question": "Comment dit-on 'environnement' en espagnol ?",
+        "réponse": "medio ambiente",
+        "moyen mnémotechnique": "Imaginez un 'médium' qui parle de l'environnement, cela peut vous aider à retenir 'medio ambiente'."
+    },
+    {
+        "question": "Quel mot espagnol signifie 'recyclage' ?",
+        "réponse": "reciclaje",
+        "moyen mnémotechnique": "Pensez à 'cycle' dans 'reciclaje' pour vous rappeler du recyclage."
+    },
+    {
+        "question": "Que signifie l'icône avec une main tenant une plante ?",
+        "réponse": "protección de la naturaleza",
+        "moyen mnémotechnique": "Imaginez une main qui protège une plante, cela symbolise la protection de la nature."
+    },
+    {
+        "question": "Quel est le mot espagnol pour 'énergie renouvelable' ?",
+        "réponse": "energía renovable",
+        "moyen mnémotechnique": "Pensez à 'renouveler' votre énergie chaque matin, cela vous rappellera 'renovable'."
+    },
+    {
+        "question": "Comment dit-on 'réchauffement climatique' en espagnol ?",
+        "réponse": "calentamiento global",
+        "moyen mnémotechnique": "Imaginez un globe qui chauffe, cela vous aidera à retenir 'calentamiento global'."
+    },
+    {
+        "question": "Quel mot espagnol correspond à 'énergie solaire' ?",
+        "réponse": "energía solar",
+        "moyen mnémotechnique": "Pensez au soleil (sol) pour retenir 'solar'."
+    },
+    {
+        "question": "Que signifie l'icône avec une éolienne ?",
+        "réponse": "energía eólica",
+        "moyen mnémotechnique": "Éole est le dieu du vent, cela vous rappellera 'eólica'."
+    },
+    {
+        "question": "Quel est le mot espagnol pour 'déforestation' ?",
+        "réponse": "deforestación",
+        "moyen mnémotechnique": "Pensez à 'forêt' pour retenir 'deforestación'."
+    },
+    {
+        "question": "Comment dit-on 'pollution' en espagnol ?",
+        "réponse": "contaminación",
+        "moyen mnémotechnique": "Imaginez un conteneur rempli de déchets, cela vous rappellera 'contaminación'."
+    },
+    {
+        "question": "Que signifie l'icône avec une ampoule ?",
+        "réponse": "ahorro de energía",
+        "moyen mnémotechnique": "Pensez à économiser (ahorrar) de l'énergie en éteignant l'ampoule."
+    },
+    {
+        "question": "Quel mot espagnol signifie 'biodiversité' ?",
+        "réponse": "biodiversidad",
+        "moyen mnémotechnique": "Pensez à la diversité de la vie (bio-diversidad)."
+    },
+    {
+        "question": "Que signifie l'icône avec un arbre et des feuilles en forme de cœur ?",
+        "réponse": "amor por la naturaleza",
+        "moyen mnémotechnique": "Un cœur pour l'amour de la nature."
+    },
+    {
+        "question": "Quel est le mot espagnol pour 'économie d'eau' ?",
+        "réponse": "ahorro de agua",
+        "moyen mnémotechnique": "Imaginez un robinet qui goutte et pensez à économiser (ahorrar) l'eau."
+    },
+    {
+        "question": "Comment dit-on 'déchets' en espagnol ?",
+        "réponse": "residuos",
+        "moyen mnémotechnique": "Pensez à ce qui reste (résidus) après utilisation."
+    },
+    {
+        "question": "Que signifie l'icône avec une bouteille en plastique ?",
+        "réponse": "reciclaje de plástico",
+        "moyen mnémotechnique": "Imaginez recycler une bouteille en plastique."
+    },
+    {
+        "question": "Quel mot espagnol signifie 'compost' ?",
+        "réponse": "compost",
+        "moyen mnémotechnique": "Le mot est le même en français et en espagnol."
+    },
+    {
+        "question": "Que signifie l'icône avec une voiture électrique ?",
+        "réponse": "coche eléctrico",
+        "moyen mnémotechnique": "Pensez à une voiture qui fonctionne à l'électricité."
+    },
+    {
+        "question": "Quel est le mot espagnol pour 'couche d’ozone' ?",
+        "réponse": "capa de ozono",
+        "moyen mnémotechnique": "Imaginez une cape (capa) qui protège la Terre."
+    },
+    {
+        "question": "Comment dit-on 'énergie verte' en espagnol ?",
+        "réponse": "energía verde",
+        "moyen mnémotechnique": "Pensez à la couleur verte pour retenir 'verde'."
+    },
+    {
+        "question": "Que signifie l'icône avec un sac en plastique ?",
+        "réponse": "reducción de plásticos",
+        "moyen mnémotechnique": "Imaginez réduire l'utilisation des sacs en plastique."
+    },
+    {
+        "question": "Quel mot espagnol signifie 'énergie hydroélectrique' ?",
+        "réponse": "energía hidroeléctrica",
+        "moyen mnémotechnique": "Pensez à l'eau (hidro) pour retenir 'hidroeléctrica'."
+    },
+    {
+        "question": "Que signifie l'icône avec un ours polaire sur un morceau de glace ?",
+        "réponse": "cambio climático",
+        "moyen mnémotechnique": "Imaginez un ours polaire en danger à cause du changement climatique."
+    },
+    {
+        "question": "Quel est le mot espagnol pour 'économie circulaire' ?",
+        "réponse": "economía circular",
+        "moyen mnémotechnique": "Pensez à un cercle pour retenir 'circular'."
+    },
+    {
+        "question": "Comment dit-on 'énergie éolienne' en espagnol ?",
+        "réponse": "energía eólica",
+        "moyen mnémotechnique": "Pensez au vent (eólico) qui fait tourner les éoliennes."
+    },
+    {
+        "question": "Que signifie l'icône avec des panneaux solaires ?",
+        "réponse": "paneles solares",
+        "moyen mnémotechnique": "Imaginez des panneaux qui captent la lumière du soleil (sol)."
+    },
+    {
+        "question": "Quel mot espagnol signifie 'réutilisation' ?",
+        "réponse": "reutilización",
+        "moyen mnémotechnique": "Pensez à réutiliser (reutilizar) vos affaires."
+    },
+    {
+        "question": "Que signifie l'icône avec une poubelle de recyclage ?",
+        "réponse": "contenedor de reciclaje",
+        "moyen mnémotechnique": "Imaginez un conteneur où vous mettez vos déchets à recycler."
+    },
+    {
+        "question": "Quel est le mot espagnol pour 'énergie géothermique' ?",
+        "réponse": "energía geotérmica",
+        "moyen mnémotechnique": "Pensez à la chaleur (termo) de la Terre (geo)."
+    },
+    {
+        "question": "Comment dit-on 'protection de l'environnement' en espagnol ?",
+        "réponse": "protección del medio ambiente",
+        "moyen mnémotechnique": "Imaginez protéger (protección) l'environnement (medio ambiente)."
+    },
+    {
+        "question": "Que signifie l'icône avec une Terre entourée de mains ?",
+        "réponse": "cuidado del planeta",
+        "moyen mnémotechnique": "Imaginez prendre soin (cuidado) de la planète."
+    },
+    {
+        "question": "Quel mot espagnol signifie 'énergie propre' ?",
+        "réponse": "energía limpia",
+        "moyen mnémotechnique": "Pensez à quelque chose de propre (limpio)."
+    },
+    {
+        "question": "Que signifie l'icône avec une bouteille en verre ?",
+        "réponse": "reciclaje de vidrio",
+        "moyen mnémotechnique": "Imaginez recycler (reciclaje) une bouteille en verre (vidrio)."
+    },
+    {
+        "question": "Quel est le mot espagnol pour 'économie d'énergie' ?",
+        "réponse": "ahorro de energía",
+        "moyen mnémotechnique": "Pensez à économiser (ahorrar) l'énergie."
+    },
+    {
+        "question": "Comment dit-on 'développement durable' en espagnol ?",
+        "réponse": "desarrollo sostenible",
+        "moyen mnémotechnique": "Pensez à quelque chose qui peut être soutenu (sostenible) sur le long terme."
+    },
+    {
+        "question": "Que signifie l'icône avec une ampoule basse consommation ?",
+        "réponse": "bombilla de bajo consumo",
+        "moyen mnémotechnique": "Imaginez une ampoule (bombilla) qui consomme peu."
+    },
+    {
+        "question": "Quel mot espagnol signifie 'réduction des émissions' ?",
+        "réponse": "reducción de emisiones",
+        "moyen mnémotechnique": "Pensez à réduire (reducción) ce qui est émis (emisiones)."
+    },
+    {
+        "question": "Que signifie l'icône avec un arbre qui pousse ?",
+        "réponse": "reforestación",
+        "moyen mnémotechnique": "Imaginez replanter (re-forestar) des arbres."
+    },
+    {
+        "question": "Quel est le mot espagnol pour 'énergie biomasse' ?",
+        "réponse": "energía de biomasa",
+        "moyen mnémotechnique": "Pensez à la masse (masa) biologique (bio)."
+    },
+    {
+        "question": "Comment dit-on 'consommation responsable' en espagnol ?",
+        "réponse": "consumo responsable",
+        "moyen mnémotechnique": "Pensez à consommer de manière responsable."
+    },
+    {
+        "question": "Que signifie l'icône avec une Terre et une feuille ?",
+        "réponse": "planeta verde",
+        "moyen mnémotechnique": "Imaginez une Terre (planeta) recouverte de verdure (verde)."
+    },
+    {
+        "question": "Quel mot espagnol signifie 'énergie nucléaire' ?",
+        "réponse": "energía nuclear",
+        "moyen mnémotechnique": "Pensez au noyau (núcleo) pour retenir 'nuclear'."
+    },
+    {
+        "question": "Que signifie l'icône avec une pile ?",
+        "réponse": "reciclaje de pilas",
+        "moyen mnémotechnique": "Imaginez recycler (reciclaje) vos piles usagées."
+    },
+    {
+        "question": "Quel est le mot espagnol pour 'éducation environnementale' ?",
+        "réponse": "educación ambiental",
+        "moyen mnémotechnique": "Pensez à éduquer (educación) sur l'environnement (ambiental)."
+    },
+    {
+        "question": "Comment dit-on 'qualité de l'air' en espagnol ?",
+        "réponse": "calidad del aire",
+        "moyen mnémotechnique": "Pensez à la qualité (calidad) de ce que vous respirez (aire)."
+    },
+    {
+        "question": "Que signifie l'icône avec un nuage de pollution ?",
+        "réponse": "contaminación del aire",
+        "moyen mnémotechnique": "Imaginez un air (aire) contaminé par la pollution."
+    },
+    {
+        "question": "Quel mot espagnol signifie 'protection des espèces' ?",
+        "réponse": "protección de especies",
+        "moyen mnémotechnique": "Pensez à protéger (protección) les différentes espèces."
+    },
+    {
+        "question": "Que signifie l'icône avec un sac de courses réutilisable ?",
+        "réponse": "bolsa reutilizable",
+        "moyen mnémotechnique": "Imaginez une bolsa (sac) que vous réutilisez."
+    },
+    {
+        "question": "Quel est le mot espagnol pour 'énergie fossile' ?",
+        "réponse": "energía fósil",
+        "moyen mnémotechnique": "Pensez aux fossiles pour retenir 'fósil'."
+    },
+    {
+        "question": "Comment dit-on 'tri des déchets' en espagnol ?",
+        "réponse": "separación de residuos",
+        "moyen mnémotechnique": "Imaginez séparer (separación) vos déchets (residuos)."
+    },
+    {
+        "question": "Que signifie l'icône avec une Terre et un thermomètre ?",
+        "réponse": "calentamiento global",
+        "moyen mnémotechnique": "Imaginez la Terre qui se réchauffe (calentamiento) à cause du thermomètre."
+    }
+]

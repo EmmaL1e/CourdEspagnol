@@ -1,0 +1,259 @@
+La santé
+
+[
+  {
+    "question": "Comment dit-on 'J’ai mal à la tête' en espagnol ?",
+    "réponse": "Tengo dolor de cabeza.",
+    "moyen_mnémotechnique": "Imaginez que votre tête ('cabeza') est une 'cabane' qui a mal ('dolor')."
+  },
+  {
+    "question": "Quel mot espagnol signifie 'médecin' ?",
+    "réponse": "Médico.",
+    "moyen_mnémotechnique": "Pensez à 'médecin' en français et ajoutez un 'o' à la fin : médico."
+  },
+  {
+    "question": "Comment dit-on 'Je suis malade' en espagnol ?",
+    "réponse": "Estoy enfermo/enferma.",
+    "moyen_mnémotechnique": "'Enfermo' ressemble à 'enfer' : quand on est malade, on se sent comme dans un enfer !"
+  },
+  {
+    "question": "Quel est le mot espagnol pour 'pharmacie' ?",
+    "réponse": "Farmacia.",
+    "moyen_mnémotechnique": "Pensez à 'farm' (ferme en anglais) et 'cia' (comme dans 'compagnie') : une pharmacie est une compagnie qui vend des produits pour la santé, comme une ferme vend des produits."
+  },
+  {
+    "question": "Comment dit-on 'J’ai de la fièvre' en espagnol ?",
+    "réponse": "Tengo fiebre.",
+    "moyen_mnémotechnique": "'Fiebre' ressemble à 'fièvre' en français, et 'tengo' signifie 'j’ai'."
+  },
+  {
+    "question": "Quel mot signifie 'dentiste' en espagnol ?",
+    "réponse": "Dentista.",
+    "moyen_mnémotechnique": "'Dentista' ressemble à 'dentiste' en français, avec une terminaison en '-ista' comme 'artista'."
+  },
+  {
+    "question": "Comment dit-on 'J’ai mal au ventre' en espagnol ?",
+    "réponse": "Me duele el estómago.",
+    "moyen_mnémotechnique": "'Estómago' ressemble à 'estomac' en français, et 'me duele' signifie 'j’ai mal'."
+  },
+  {
+    "question": "Quel est le mot espagnol pour 'hôpital' ?",
+    "réponse": "Hospital.",
+    "moyen_mnémotechnique": "Presque identique au mot français 'hôpital', mais sans accent."
+  },
+  {
+    "question": "Comment dit-on 'Je me sens fatigué(e)' en espagnol ?",
+    "réponse": "Me siento cansado/cansada.",
+    "moyen_mnémotechnique": "'Cansado' ressemble à 'cansé' (je suis fatigué en français familier)."
+  },
+  {
+    "question": "Quel mot signifie 'médicament' en espagnol ?",
+    "réponse": "Medicina.",
+    "moyen_mnémotechnique": "'Medicina' ressemble à 'médecine' en français."
+  },
+  {
+    "question": "Comment dit-on 'J’ai mal à la gorge' en espagnol ?",
+    "réponse": "Me duele la garganta.",
+    "moyen_mnémotechnique": "'Garganta' ressemble à 'gorge' en français, et 'me duele' signifie 'j’ai mal'."
+  },
+  {
+    "question": "Quel mot signifie 'ambulance' en espagnol ?",
+    "réponse": "Ambulancia.",
+    "moyen_mnémotechnique": "Presque identique au mot français 'ambulance', mais avec un 'i' avant le 'a' final."
+  },
+  {
+    "question": "Comment dit-on 'J’ai besoin d’un médecin' en espagnol ?",
+    "réponse": "Necesito un médico.",
+    "moyen_mnémotechnique": "'Necesito' ressemble à 'nécessite' en français, et 'médico' signifie 'médecin'."
+  },
+  {
+    "question": "Quel mot signifie 'blessure' en espagnol ?",
+    "réponse": "Herida.",
+    "moyen_mnémotechnique": "'Herida' ressemble à 'blessure' si on pense à 'héri' (comme dans 'héritage') et 'da' (pour 'douleur')."
+  },
+  {
+    "question": "Comment dit-on 'Je suis allergique' en espagnol ?",
+    "réponse": "Soy alérgico/alérgica.",
+    "moyen_mnémotechnique": "'Alérgico' ressemble à 'allergique' en français, avec un 'o' ou 'a' à la fin."
+  },
+  {
+    "question": "Quel mot signifie 'santé' en espagnol ?",
+    "réponse": "Salud.",
+    "moyen_mnémotechnique": "Pensez à 'salut' en français, qui peut aussi signifier 'santé' dans certaines expressions."
+  },
+  {
+    "question": "Comment dit-on 'Prenez ce médicament' en espagnol ?",
+    "réponse": "Tome esta medicina.",
+    "moyen_mnémotechnique": "'Tome' ressemble à 'prends' en français, et 'medicina' signifie 'médicament'."
+  },
+  {
+    "question": "Quel mot signifie 'urgence' en espagnol ?",
+    "réponse": "Urgencia.",
+    "moyen_mnémotechnique": "Presque identique au mot français 'urgence', mais avec un 'a' à la fin."
+  },
+  {
+    "question": "Comment dit-on 'Ça fait mal' en espagnol ?",
+    "réponse": "Duele.",
+    "moyen_mnémotechnique": "'Duele' ressemble à 'douleur' en français, mais en plus court."
+  }
+    {
+        "question": "Comment dit-on 'pilule' en espagnol ?",
+        "réponse": "pastilla",
+        "moyen_mnémotechnique": "Pensez à 'pastille' en français, qui est similaire."
+    },
+    {
+        "question": "Comment dit-on 'injection' en espagnol ?",
+        "réponse": "inyección",
+        "moyen_mnémotechnique": "Pensez à 'injection' en anglais, qui ressemble beaucoup."
+    },
+    {
+        "question": "Comment dit-on 'masque' en espagnol ?",
+        "réponse": "mascarilla",
+        "moyen_mnémotechnique": "Pensez à 'mascara', qui est un mot similaire."
+    },
+    {
+        "question": "Comment dit-on 'gel hydroalcoolique' en espagnol ?",
+        "réponse": "gel desinfectante",
+        "moyen_mnémotechnique": "'Gel' est le même en espagnol, 'desinfectante' signifie désinfectant."
+    },
+    {
+        "question": "Comment dit-on 'thermomètre' en espagnol ?",
+        "réponse": "termómetro",
+        "moyen_mnémotechnique": "Presque identique au mot français."
+    },
+    {
+        "question": "Comment dit-on 'alcool' en espagnol ?",
+        "réponse": "alcohol",
+        "moyen_mnémotechnique": "Le mot est identique en français et en espagnol."
+    },
+    {
+        "question": "Comment dit-on 'tensiomètre' en espagnol ?",
+        "réponse": "tensiómetro",
+        "moyen_mnémotechnique": "Très similaire au mot français."
+    },
+    {
+        "question": "Comment dit-on 'bouteille' en espagnol ?",
+        "réponse": "botella",
+        "moyen_mnémotechnique": "Pensez à 'bouteille' et 'botella' ont une sonorité proche."
+    },
+    {
+        "question": "Comment dit-on 'aérosol' en espagnol ?",
+        "réponse": "aerosol",
+        "moyen_mnémotechnique": "Le mot est identique en français et en espagnol."
+    },
+    {
+        "question": "Comment dit-on 'tête' en espagnol ?",
+        "réponse": "cabeza",
+        "moyen_mnémotechnique": "Pensez à 'cabeza' comme 'cabeceo' qui évoque un mouvement de tête."
+    },
+    {
+        "question": "Comment dit-on 'cheveu' en espagnol ?",
+        "réponse": "cabello",
+        "moyen_mnémotechnique": "Pensez à 'cabello' comme 'chevelu' en français."
+    },
+    {
+        "question": "Comment dit-on 'front' en espagnol ?",
+        "réponse": "frente",
+        "moyen_mnémotechnique": "Pensez à 'frente' comme 'front' en anglais."
+    },
+    {
+        "question": "Comment dit-on 'œil' en espagnol ?",
+        "réponse": "ojo",
+        "moyen_mnémotechnique": "Pensez à 'ojo' comme dans 'mirage' qui se voit avec les yeux."
+    },
+    {
+        "question": "Comment dit-on 'nez' en espagnol ?",
+        "réponse": "nariz",
+        "moyen_mnémotechnique": "Pensez à 'narine' en français."
+    },
+    {
+        "question": "Comment dit-on 'bouche' en espagnol ?",
+        "réponse": "boca",
+        "moyen_mnémotechnique": "Pensez à 'boca' comme 'bouche' en portugais."
+    },
+    {
+        "question": "Comment dit-on 'cou' en espagnol ?",
+        "réponse": "cuello",
+        "moyen_mnémotechnique": "Pensez à 'collier' qui se porte autour du cou."
+    },
+    {
+        "question": "Comment dit-on 'épaule' en espagnol ?",
+        "réponse": "hombro",
+        "moyen_mnémotechnique": "Pensez à 'homme' et 'bras' pour retenir 'hombro'."
+    },
+    {
+        "question": "Comment dit-on 'cœur' en espagnol ?",
+        "réponse": "corazón",
+        "moyen_mnémotechnique": "Pensez à la chanson 'Mi corazón'."
+    },
+    {
+        "question": "Comment dit-on 'bras' en espagnol ?",
+        "réponse": "brazo",
+        "moyen_mnémotechnique": "Pensez à 'bras' et 'brazo' ont une sonorité proche."
+    },
+    {
+        "question": "Comment dit-on 'main' en espagnol ?",
+        "réponse": "mano",
+        "moyen_mnémotechnique": "Pensez à 'manoeuvre' qui utilise les mains."
+    },
+    {
+        "question": "Comment dit-on 'muscle' en espagnol ?",
+        "réponse": "músculo",
+        "moyen_mnémotechnique": "Presque identique au mot français."
+    },
+    {
+        "question": "Comment dit-on 'genou' en espagnol ?",
+        "réponse": "rodilla",
+        "moyen_mnémotechnique": "Pensez à 'rouleau' pour retenir 'rodilla'."
+    },
+    {
+        "question": "Comment dit-on 'jambe' en espagnol ?",
+        "réponse": "pierna",
+        "moyen_mnémotechnique": "Pensez à 'pied' et 'jambe' pour retenir 'pierna'."
+    },
+    {
+        "question": "Comment dit-on 'pied' en espagnol ?",
+        "réponse": "pie",
+        "moyen_mnémotechnique": "Pensez à 'pied' et 'pie' sont courts et similaires."
+    },
+    {
+        "question": "Comment dit-on 'ongle' en espagnol ?",
+        "réponse": "uña",
+        "moyen_mnémotechnique": "Pensez à 'uñero' qui est un porte-ongles."
+    },
+    {
+        "question": "Comment dit-on 'poitrine' en espagnol ?",
+        "réponse": "pecho",
+        "moyen_mnémotechnique": "Pensez à 'pecho' comme 'poitrine' en portugais."
+    },
+    {
+        "question": "Comment dit-on 'côte' en espagnol ?",
+        "réponse": "costado/costilla",
+        "moyen_mnémotechnique": "Pensez à 'côte' et 'costilla' ont une sonorité proche."
+    },
+    {
+        "question": "Comment dit-on 'nomril' en espagnol ?",
+        "réponse": "ombligo",
+        "moyen_mnémotechnique": "Pensez à 'ombilic' en français."
+    },
+    {
+        "question": "Comment dit-on 'doigt' en espagnol ?",
+        "réponse": "dedo",
+        "moyen_mnémotechnique": "Pensez à 'doigt' et 'dedo' sont courts et similaires."
+    },
+    {
+        "question": "Comment dit-on 'sang' en espagnol ?",
+        "réponse": "sangre",
+        "moyen_mnémotechnique": "Pensez à 'sang' et 'sangre' ont une sonorité proche."
+    },
+    {
+        "question": "Comment dit-on 'langue' en espagnol ?",
+        "réponse": "lengua",
+        "moyen_mnémotechnique": "Pensez à 'langue' et 'lengua' ont une sonorité proche."
+    },
+    {
+        "question": "Comment dit-on 'dent' en espagnol ?",
+        "réponse": "diente",
+        "moyen_mnémotechnique": "Pensez à 'dent' et 'diente' sont similaires."
+    }
+]

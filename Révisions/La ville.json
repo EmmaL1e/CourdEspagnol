@@ -1,0 +1,564 @@
+prompt pour générer un fichier xxx.json 
+dans le format JSON suivant : question, réponse, moyen mnémotechnique, génére un quizz de 40 questions pour un étudiant francais qui apprends l'espagnol avec un niveau A1. Le thème : La ville 
+
+
+[
+    {
+        "question": "Comment dit-on 'la ville' en espagnol ?",
+        "réponse": "la ciudad",
+        "moyen_mnémotechnique": "Pense à 'city' en anglais, qui ressemble à 'ciudad'."
+    },
+    {
+        "question": "Comment dit-on 'la rue' en espagnol ?",
+        "réponse": "la calle",
+        "moyen_mnémotechnique": "Imagine-toi en train de 'caller' (appeler) quelqu’un dans la rue."
+    },
+    {
+        "question": "Comment dit-on 'la place' en espagnol ?",
+        "réponse": "la plaza",
+        "moyen_mnémotechnique": "Pense à la 'Piazza' en italien, qui ressemble à 'plaza'."
+    },
+    {
+        "question": "Comment dit-on 'le parc' en espagnol ?",
+        "réponse": "el parque",
+        "moyen_mnémotechnique": "Le mot 'parque' ressemble au français 'parc'."
+    },
+    {
+        "question": "Comment dit-on 'le magasin' en espagnol ?",
+        "réponse": "la tienda",
+        "moyen_mnémotechnique": "Pense à 'tente' : une boutique peut ressembler à une tente sur un marché."
+    },
+    {
+        "question": "Comment dit-on 'le restaurant' en espagnol ?",
+        "réponse": "el restaurante",
+        "moyen_mnémotechnique": "Le mot se termine comme 'restaurant' en français."
+    },
+    {
+        "question": "Comment dit-on 'la maison' en espagnol ?",
+        "réponse": "la casa",
+        "moyen_mnémotechnique": "Pense à la 'casa' de 'casanova'."
+    },
+    {
+        "question": "Comment dit-on 'l’école' en espagnol ?",
+        "réponse": "la escuela",
+        "moyen_mnémotechnique": "Le mot contient 'cole', comme 'collège' en français."
+    },
+    {
+        "question": "Comment dit-on 'l’hôpital' en espagnol ?",
+        "réponse": "el hospital",
+        "moyen_mnémotechnique": "Le mot ressemble à 'hospital' en anglais."
+    },
+    {
+        "question": "Comment dit-on 'le musée' en espagnol ?",
+        "réponse": "el museo",
+        "moyen_mnémotechnique": "Le mot est presque identique au français 'musée'."
+    },
+    {
+        "question": "Comment dit-on 'le cinéma' en espagnol ?",
+        "réponse": "el cine",
+        "moyen_mnémotechnique": "Pense à 'cinéma' sans le 'ma' final."
+    },
+    {
+        "question": "Comment dit-on 'la banque' en espagnol ?",
+        "réponse": "el banco",
+        "moyen_mnémotechnique": "Pense à 'banque' et à 'banc' (siège), car on peut s’asseoir devant une banque."
+    },
+    {
+        "question": "Comment dit-on 'la gare' en espagnol ?",
+        "réponse": "la estación",
+        "moyen_mnémotechnique": "Pense à 'station' en français, car une gare est une station de train."
+    },
+    {
+        "question": "Comment dit-on 'le supermarché' en espagnol ?",
+        "réponse": "el supermercado",
+        "moyen_mnémotechnique": "Le mot est très proche du français 'supermarché'."
+    },
+    {
+        "question": "Comment dit-on 'le marché' en espagnol ?",
+        "réponse": "el mercado",
+        "moyen_mnémotechnique": "Pense à 'merci' : on dit merci quand on achète quelque chose au marché."
+    },
+    {
+        "question": "Comment dit-on 'le pont' en espagnol ?",
+        "réponse": "el puente",
+        "moyen_mnémotechnique": "Pense à 'pont' et à 'puissant' : un pont est une structure puissante."
+    },
+    {
+        "question": "Comment dit-on 'le monument' en espagnol ?",
+        "réponse": "el monumento",
+        "moyen_mnémotechnique": "Le mot ressemble au français 'monument'."
+    },
+    {
+        "question": "Comment dit-on 'la bibliothèque' en espagnol ?",
+        "réponse": "la biblioteca",
+        "moyen_mnémotechnique": "Pense à 'bibliothèque' et à 'bibli' (livre)."
+    },
+    {
+        "question": "Comment dit-on 'le théâtre' en espagnol ?",
+        "réponse": "el teatro",
+        "moyen_mnémotechnique": "Le mot ressemble au français 'théâtre'."
+    },
+    {
+        "question": "Comment dit-on 'le stade' en espagnol ?",
+        "réponse": "el estadio",
+        "moyen_mnémotechnique": "Pense à 'stade' et à 'adio' (au revoir) : on dit au revoir après un match."
+    },
+    {
+        "question": "Comment dit-on 'l’hôtel' en espagnol ?",
+        "réponse": "el hotel",
+        "moyen_mnémotechnique": "Le mot est presque identique au français 'hôtel'."
+    },
+    {
+        "question": "Comment dit-on 'le café' en espagnol ?",
+        "réponse": "el café",
+        "moyen_mnémotechnique": "Le mot est identique en français et en espagnol."
+    },
+    {
+        "question": "Comment dit-on 'le bar' en espagnol ?",
+        "réponse": "el bar",
+        "moyen_mnémotechnique": "Le mot est identique en français et en espagnol."
+    },
+    {
+        "question": "Comment dit-on 'le parc d’attractions' en espagnol ?",
+        "réponse": "el parque de atracciones",
+        "moyen_mnémotechnique": "'Atracciones' ressemble à 'attractions' en français."
+    },
+    {
+        "question": "Comment dit-on 'la pharmacie' en espagnol ?",
+        "réponse": "la farmacia",
+        "moyen_mnémotechnique": "Pense à 'pharmacie' et à 'farm' (ferme) : on y cultive des plantes médicinales."
+    },
+    {
+        "question": "Comment dit-on 'le commissariat' en espagnol ?",
+        "réponse": "la comisaría",
+        "moyen_mnémotechnique": "Pense à 'commissaire' en français."
+    },
+    {
+        "question": "Comment dit-on 'la poste' en espagnol ?",
+        "réponse": "el correo",
+        "moyen_mnémotechnique": "Pense à 'courrier' en français."
+    },
+    {
+        "question": "Comment dit-on 'la mairie' en espagnol ?",
+        "réponse": "el ayuntamiento",
+        "moyen_mnémotechnique": "Pense à 'aider' et 'mariage' : la mairie aide à organiser les mariages."
+    },
+    {
+        "question": "Comment dit-on 'le centre commercial' en espagnol ?",
+        "réponse": "el centro comercial",
+        "moyen_mnémotechnique": "'Centro' ressemble à 'centre' et 'comercial' à 'commercial'."
+    },
+    {
+        "question": "Comment dit-on 'le zoo' en espagnol ?",
+        "réponse": "el zoológico",
+        "moyen_mnémotechnique": "Pense à 'zoo' et 'logique' : c’est logique d’y voir des animaux."
+    },
+    {
+        "question": "Comment dit-on 'le square' en espagnol ?",
+        "réponse": "la plaza",
+        "moyen_mnémotechnique": "Un square est souvent une petite 'plaza'."
+    },
+    {
+        "question": "Comment dit-on 'le métro' en espagnol ?",
+        "réponse": "el metro",
+        "moyen_mnémotechnique": "Le mot est identique en français et en espagnol."
+    },
+    {
+        "question": "Comment dit-on 'le bus' en espagnol ?",
+        "réponse": "el autobús",
+        "moyen_mnémotechnique": "Pense à 'auto' (voiture) et 'bus'."
+    },
+    {
+        "question": "Comment dit-on 'le taxi' en espagnol ?",
+        "réponse": "el taxi",
+        "moyen_mnémotechnique": "Le mot est identique en français et en espagnol."
+    },
+    {
+        "question": "Comment dit-on 'la voiture' en espagnol ?",
+        "réponse": "el coche",
+        "moyen_mnémotechnique": "Pense à 'cocher' : on peut cocher une case pour réserver une voiture."
+    },
+    {
+        "question": "Comment dit-on 'le vélo' en espagnol ?",
+        "réponse": "la bicicleta",
+        "moyen_mnémotechnique": "Pense à 'bicyclette' en français."
+    },
+    {
+        "question": "Comment dit-on 'le feu de signalisation' en espagnol ?",
+        "réponse": "el semáforo",
+        "moyen_mnémotechnique": "Pense à 'sema' (sème) et 'foro' (forum) : il sème des indications pour le forum routier."
+    },
+    {
+        "question": "Comment dit-on 'le trottoir' en espagnol ?",
+        "réponse": "la acera",
+        "moyen_mnémotechnique": "Pense à 'accès' : le trottoir donne accès aux piétons."
+    },
+    {
+        "question": "Comment dit-on 'le passage piéton' en espagnol ?",
+        "réponse": "el paso de peatones",
+        "moyen_mnémotechnique": "'Paso' ressemble à 'passage' et 'peatones' à 'piétons'."
+    },
+    {
+        "question": "Comment dit-on 'le carrefour' en espagnol ?",
+        "réponse": "el cruce",
+        "moyen_mnémotechnique": "Pense à 'croiser' : on croise des routes à un carrefour."
+    },
+    {
+        "question": "Comment dit-on 'le rond-point' en espagnol ?",
+        "réponse": "la rotonda",
+        "moyen_mnémotechnique": "Pense à 'rond' : une rotonda est ronde."
+    },
+    {
+        "question": "Comment dit-on 'le pont' en espagnol ?",
+        "réponse": "el puente",
+        "moyen_mnémotechnique": "Pense à 'pont' et à 'puissant' : un pont est une structure puissante."
+    },
+    {
+        "question": "Comment dit-on 'la fontaine' en espagnol ?",
+        "réponse": "la fuente",
+        "moyen_mnémotechnique": "Pense à 'fontaine' et à 'fuite' : l’eau s’échappe de la fontaine."
+    },
+    {
+        "question": "Comment dit-on 'le jardin' en espagnol ?",
+        "réponse": "el jardín",
+        "moyen_mnémotechnique": "Le mot ressemble au français 'jardin'."
+    },
+    {
+        "question": "Comment dit-on 'le kiosque' en espagnol ?",
+        "réponse": "el quiosco",
+        "moyen_mnémotechnique": "Pense à 'kiosque' en français."
+    },
+    {
+        "question": "Comment dit-on 'le monument aux morts' en espagnol ?",
+        "réponse": "el monumento a los caídos",
+        "moyen_mnémotechnique": "'Caídos' ressemble à 'tomber' : les soldats tombés à la guerre."
+    },
+    {
+        "question": "Comment dit-on 'le quartier' en espagnol ?",
+        "réponse": "el barrio",
+        "moyen_mnémotechnique": "Pense à 'barrière' : un quartier peut être délimité par des barrières."
+    },
+    {
+        "question": "Comment dit-on 'la rue piétonne' en espagnol ?",
+        "réponse": "la calle peatonal",
+        "moyen_mnémotechnique": "'Peatonal' ressemble à 'piétonnier' en français."
+    },
+    {
+        "question": "Comment dit-on 'le boulevard' en espagnol ?",
+        "réponse": "el bulevar",
+        "moyen_mnémotechnique": "Le mot ressemble au français 'boulevard'."
+    },
+    {
+        "question": "Comment dit-on 'la place du marché' en espagnol ?",
+        "réponse": "la plaza del mercado",
+        "moyen_mnémotechnique": "'Plaza' et 'mercado' sont des mots que tu connais déjà !"
+    },
+    {
+        "question": "Comment dit-on 'le parc public' en espagnol ?",
+        "réponse": "el parque público",
+        "moyen_mnémotechnique": "'Público' ressemble à 'public' en français."
+    },
+    {
+        "question": "Comment dit-on 'le centre-ville' en espagnol ?",
+        "réponse": "el centro de la ciudad",
+        "moyen_mnémotechnique": "'Centro' et 'ciudad' sont des mots que tu connais déjà !"
+    },
+    {
+        "question": "Comment dit-on 'le quartier résidentiel' en espagnol ?",
+        "réponse": "el barrio residencial",
+        "moyen_mnémotechnique": "'Residencial' ressemble à 'résidentiel' en français."
+    },
+    {
+        "question": "Comment dit-on 'le quartier historique' en espagnol ?",
+        "réponse": "el casco histórico",
+        "moyen_mnémotechnique": "'Histórico' ressemble à 'historique' en français."
+    },
+    {
+        "question": "Comment dit-on 'le quartier commerçant' en espagnol ?",
+        "réponse": "el barrio comercial",
+        "moyen_mnémotechnique": "'Comercial' ressemble à 'commercial' en français."
+    },
+    {
+        "question": "Comment dit-on 'le quartier industriel' en espagnol ?",
+        "réponse": "el polígono industrial",
+        "moyen_mnémotechnique": "'Industrial' ressemble à 'industriel' en français."
+    },
+    {
+        "question": "Comment dit-on 'le quartier chic' en espagnol ?",
+        "réponse": "el barrio elegante",
+        "moyen_mnémotechnique": "'Elegante' ressemble à 'élégant' en français."
+    },
+    {
+        "question": "Comment dit-on 'le quartier pauvre' en espagnol ?",
+        "réponse": "el barrio pobre",
+        "moyen_mnémotechnique": "'Pobre' ressemble à 'pauvre' en français."
+    },
+    {
+        "question": "Comment dit-on 'le quartier animé' en espagnol ?",
+        "réponse": "el barrio animado",
+        "moyen_mnémotechnique": "'Animado' ressemble à 'animé' en français."
+    },
+    {
+        "question": "Comment dit-on 'le quartier tranquille' en espagnol ?",
+        "réponse": "el barrio tranquilo",
+        "moyen_mnémotechnique": "'Tranquilo' ressemble à 'tranquille' en français."
+    },
+    {
+        "question": "Comment dit-on 'le quartier moderne' en espagnol ?",
+        "réponse": "el barrio moderno",
+        "moyen_mnémotechnique": "'Moderno' ressemble à 'moderne' en français."
+    },
+    {
+        "question": "Comment dit-on 'le quartier ancien' en espagnol ?",
+        "réponse": "el barrio antiguo",
+        "moyen_mnémotechnique": "'Antiguo' ressemble à 'ancien' en français."
+    },
+    {
+        "question": "Comment dit-on 'le quartier touristique' en espagnol ?",
+        "réponse": "el barrio turístico",
+        "moyen_mnémotechnique": "'Turístico' ressemble à 'touristique' en français."
+    },
+    {
+        "question": "Comment dit-on 'le quartier étudiant' en espagnol ?",
+        "réponse": "el barrio universitario",
+        "moyen_mnémotechnique": "'Universitario' ressemble à 'universitaire' en français."
+    },
+    {
+        "question": "Comment dit-on 'le quartier d’affaires' en espagnol ?",
+        "réponse": "el barrio de negocios",
+        "moyen_mnémotechnique": "'Negocios' ressemble à 'négociations' ou 'affaires' en français."
+    }
+  {
+    "question": "Comment dit-on 'la voiture' en espagnol ?",
+    "réponse": "el coche / el auto (selon les pays)",
+    "moyen_mnémotechnique": "Pense à 'cocher' une case pour prendre la voiture (coche)."
+  },
+  {
+    "question": "Comment dit-on 'le bus' en espagnol ?",
+    "réponse": "el autobús",
+    "moyen_mnémotechnique": "'Auto' comme automobile + 'bus' reste pareil. Imagine un bus qui roule tout seul (auto)."
+  },
+  {
+    "question": "Comment dit-on 'le vélo' en espagnol ?",
+    "réponse": "la bicicleta",
+    "moyen_mnémotechnique": "'Bi' comme deux roues, et 'cleta' sonne comme 'clochette' – imagine un vélo avec une clochette !"
+  },
+  {
+    "question": "Comment dit-on 'le train' en espagnol ?",
+    "réponse": "el tren",
+    "moyen_mnémotechnique": "Pense au mot 'train' en français et remplace le 'a' par un 'e' : tr**e**n."
+  },
+  {
+    "question": "Comment dit-on 'l'avion' en espagnol ?",
+    "réponse": "el avión",
+    "moyen_mnémotechnique": "'Avión' ressemble à 'avion' en français, avec un accent sur le 'o'."
+  },
+  {
+    "question": "Comment dit-on 'le métro' en espagnol ?",
+    "réponse": "el metro",
+    "moyen_mnémotechnique": "C'est presque identique au français, juste avec un 'o' à la fin."
+  },
+  {
+    "question": "Comment dit-on 'le taxi' en espagnol ?",
+    "réponse": "el taxi",
+    "moyen_mnémotechnique": "Le mot est le même qu'en français, facile à retenir !"
+  },
+  {
+    "question": "Comment dit-on 'la moto' en espagnol ?",
+    "réponse": "la moto",
+    "moyen_mnémotechnique": "Identique au français, comme 'moto' dans 'motocyclette'."
+  },
+  {
+    "question": "Comment dit-on 'le bateau' en espagnol ?",
+    "réponse": "el barco",
+    "moyen_mnémotechnique": "Pense à 'barque' en français, qui ressemble à 'barco'."
+  },
+  {
+    "question": "Comment dit-on 'le camion' en espagnol ?",
+    "réponse": "el camión",
+    "moyen_mnémotechnique": "'Camion' en français devient 'camión' en espagnol, avec un accent sur le 'o'."
+  },
+  {
+    "question": "Comment dit-on 'le ticket' en espagnol ?",
+    "réponse": "el billete",
+    "moyen_mnémotechnique": "'Billete' sonne comme 'billet' en français, mais avec un 'e' à la fin."
+  },
+  {
+    "question": "Comment dit-on 'la gare' en espagnol ?",
+    "réponse": "la estación (de tren)",
+    "moyen_mnémotechnique": "'Estación' comme 'station' en anglais, un endroit où on s’arrête."
+  },
+  {
+    "question": "Comment dit-on 'la rue' en espagnol ?",
+    "réponse": "la calle",
+    "moyen_mnémotechnique": "'Calle' sonne comme 'caler' en français – imagine une voiture qui cale dans la rue !"
+  }
+
+{
+  "types_de_vivienda": [
+    {
+      "question": "Comment dit-on 'maison mitoyenne' en espagnol ?",
+      "réponse": "el adosado",
+      "moyen_mnémotechnique": "Imaginez un immeuble 'adossé' à un autre, comme des maisons jumelles."
+    },
+    {
+      "question": "Comment dit-on 'palais' en espagnol ?",
+      "réponse": "el palacio",
+      "moyen_mnémotechnique": "Pensez à un 'palais' luxueux, comme ceux des rois."
+    },
+    {
+      "question": "Comment dit-on 'appartement' en espagnol ?",
+      "réponse": "el apartamento / el piso",
+      "moyen_mnémotechnique": "Un 'piso' est comme un étage, un 'apartamento' est comme un appartement."
+    },
+    {
+      "question": "Comment dit-on 'grenier' en espagnol ?",
+      "réponse": "el ático",
+      "moyen_mnémotechnique": "Pensez à un grenier ou un espace sous le toit, comme un 'attic' en anglais."
+    },
+    {
+      "question": "Comment dit-on 'maison de campagne' en espagnol ?",
+      "réponse": "la casa de campo",
+      "moyen_mnémotechnique": "Imaginez une maison entourée de champs."
+    },
+    {
+      "question": "Comment dit-on 'villa' en espagnol ?",
+      "réponse": "la villa",
+      "moyen_mnémotechnique": "C'est le même mot qu'en français, facile à retenir !"
+    },
+    {
+      "question": "Comment dit-on 'chalet' en espagnol ?",
+      "réponse": "el chalé / chalet",
+      "moyen_mnémotechnique": "C'est presque le même mot qu'en français."
+    },
+    {
+      "question": "Comment dit-on 'cabane' en espagnol ?",
+      "réponse": "la cabaña",
+      "moyen_mnémotechnique": "Imaginez une petite maison en bois dans les montagnes."
+    }
+  ],
+  "partes_de_la_casa": [
+    {
+      "question": "Comment dit-on 'salon' en espagnol ?",
+      "réponse": "el salón",
+      "moyen_mnémotechnique": "Pensez à un salon élégant où l'on reçoit les invités."
+    },
+    {
+      "question": "Comment dit-on 'cuisine' en espagnol ?",
+      "réponse": "la cocina",
+      "moyen_mnémotechnique": "Imaginez-vous en train de cuisiner des plats délicieux."
+    },
+    {
+      "question": "Comment dit-on 'chambre' en espagnol ?",
+      "réponse": "el dormitorio / la habitación",
+      "moyen_mnémotechnique": "C'est là où l'on dort, 'dormitorio' vient de dormir."
+    },
+    {
+      "question": "Comment dit-on 'salle de bain' en espagnol ?",
+      "réponse": "el cuarto de baño",
+      "moyen_mnémotechnique": "Un 'cuarto' est une pièce, et 'baño' signifie bain."
+    },
+    {
+      "question": "Comment dit-on 'sous-sol' en espagnol ?",
+      "réponse": "el sótano",
+      "moyen_mnémotechnique": "Imaginez un endroit sombre sous la maison."
+    },
+    {
+      "question": "Comment dit-on 'toit' en espagnol ?",
+      "réponse": "el techo",
+      "moyen_mnémotechnique": "Pensez à quelque chose qui vous protège au-dessus de la tête."
+    },
+    {
+      "question": "Comment dit-on 'jardin' en espagnol ?",
+      "réponse": "el jardín",
+      "moyen_mnémotechnique": "Imaginez un espace vert avec des fleurs et des plantes."
+    },
+    {
+      "question": "Comment dit-on 'garage' en espagnol ?",
+      "réponse": "el garaje",
+      "moyen_mnémotechnique": "Pensez à l'endroit où l'on gare la voiture."
+    },
+    {
+      "question": "Comment dit-on 'salle à manger' en espagnol ?",
+      "réponse": "el comedor",
+      "moyen_mnémotechnique": "C'est là où l'on mange, comme en français."
+    },
+    {
+      "question": "Comment dit-on 'buanderie' en espagnol ?",
+      "réponse": "el lavadero",
+      "moyen_mnémotechnique": "Imaginez un endroit où l'on lave le linge."
+    },
+    {
+      "question": "Comment dit-on 'bureau' en espagnol ?",
+      "réponse": "el despacho",
+      "moyen_mnémotechnique": "Pensez à une pièce où l'on travaille."
+    },
+    {
+      "question": "Comment dit-on 'terrasse' en espagnol ?",
+      "réponse": "la terraza",
+      "moyen_mnémotechnique": "Imaginez un espace extérieur où l'on peut se détendre."
+    },
+    {
+      "question": "Comment dit-on 'plante basse' en espagnol ?",
+      "réponse": "la planta baja",
+      "moyen_mnémotechnique": "C'est le rez-de-chaussée, la 'planta' la plus basse."
+    }
+  ],
+  "muebles_y_objetos": [
+    {
+      "question": "Comment dit-on 'canapé rouge' en espagnol ?",
+      "réponse": "el sofá rojo",
+      "moyen_mnémotechnique": "Pensez à un canapé confortable de couleur rouge."
+    },
+    {
+      "question": "Comment dit-on 'étagère' en espagnol ?",
+      "réponse": "la estantería",
+      "moyen_mnémotechnique": "Imaginez une étagère remplie de livres."
+    },
+    {
+      "question": "Comment dit-on 'lit' en espagnol ?",
+      "réponse": "la cama",
+      "moyen_mnémotechnique": "C'est là où l'on dort, comme en français."
+    },
+    {
+      "question": "Comment dit-on 'coussins' en espagnol ?",
+      "réponse": "los cojines",
+      "moyen_mnémotechnique": "Pensez à des coussins moelleux sur un canapé."
+    },
+    {
+      "question": "Comment dit-on 'table de nuit' en espagnol ?",
+      "réponse": "la mesita de noche",
+      "moyen_mnémotechnique": "Imaginez une table à côté de votre lit."
+    },
+    {
+      "question": "Comment dit-on 'armoire' en espagnol ?",
+      "réponse": "el armario",
+      "moyen_mnémotechnique": "Pensez à un grand meuble où l'on range les vêtements."
+    },
+    {
+      "question": "Comment dit-on 'tapis' en espagnol ?",
+      "réponse": "la alfombra",
+      "moyen_mnémotechnique": "Imaginez un tapis doux sous vos pieds."
+    },
+    {
+      "question": "Comment dit-on 'commode' en espagnol ?",
+      "réponse": "la cómoda",
+      "moyen_mnémotechnique": "Pensez à un meuble avec des tiroirs pour ranger vos affaires."
+    },
+    {
+      "question": "Comment dit-on 'lampe' en espagnol ?",
+      "réponse": "la lámpara",
+      "moyen_mnémotechnique": "Imaginez une lampe qui éclaire votre chambre."
+    },
+    {
+      "question": "Comment dit-on 'chaises noires' en espagnol ?",
+      "réponse": "las sillas negras",
+      "moyen_mnémotechnique": "Pensez à des chaises de couleur noire autour d'une table."
+    },
+    {
+      "question": "Comment dit-on 'couvertures' en espagnol ?",
+      "réponse": "las mantas",
+      "moyen_mnémotechnique": "Imaginez-vous couvert par une manta chaude."
+    }
+  ]
+}

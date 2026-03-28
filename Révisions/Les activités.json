@@ -1,0 +1,304 @@
+Les activités 
+
+[
+    {
+        "question": "Comment dit-on 'Faire du vélo' en espagnol ?",
+        "réponse": "Hora mínima / Montar en bicicleta",
+        "moyen_mnémotechnique": "Imaginez une horloge (hora) qui tourne comme les roues d’un vélo."
+    },
+    {
+        "question": "Comment dit-on 'Suggérer des légumes' en espagnol ?",
+        "réponse": "Sugerir vegetales",
+        "moyen_mnémotechnique": "'Sugerir' ressemble au mot 'sucre', et les légumes peuvent être sucrés."
+    },
+    {
+        "question": "Comment dit-on 'Se promener à vélo' en espagnol ?",
+        "réponse": "Pasear en bicicleta",
+        "moyen_mnémotechnique": "'Pasear' ressemble à 'passer', comme passer du temps à vélo."
+    },
+    {
+        "question": "Comment dit-on 'Prendre des photos' en espagnol ?",
+        "réponse": "Tomar fotografías",
+        "moyen_mnémotechnique": "'Tomar' peut être associé à 'prendre', comme on prend une photo."
+    },
+    {
+        "question": "Comment dit-on 'Courir' en espagnol ?",
+        "réponse": "Correr",
+        "moyen_mnémotechnique": "'Correr' et 'courir' commencent tous les deux par 'cor-' et 'cour-'."
+    },
+    {
+        "question": "Comment dit-on 'Marcher' en espagnol ?",
+        "réponse": "Caminar",
+        "moyen_mnémotechnique": "'Caminar' et 'marcher' ont tous deux un 'm' et un 'r'."
+    },
+    {
+        "question": "Comment dit-on 'Écrire' en espagnol ?",
+        "réponse": "Escribir",
+        "moyen_mnémotechnique": "'Escribir' et 'écrire' commencent par un 'e' et contiennent un 'r'."
+    },
+    {
+        "question": "Comment dit-on 'Boire' en espagnol ?",
+        "réponse": "Beber",
+        "moyen_mnémotechnique": "'Beber' et 'boire' commencent tous deux par un 'b'."
+    },
+    {
+        "question": "Comment dit-on 'Travailler' en espagnol ?",
+        "réponse": "Trabajar",
+        "moyen_mnémotechnique": "'Trabajar' et 'travailler' commencent par 'tra-'."
+    },
+    {
+        "question": "Comment dit-on 'Lire' en espagnol ?",
+        "réponse": "Leer",
+        "moyen_mnémotechnique": "'Leer' et 'lire' commencent tous deux par un 'l'."
+    },
+    {
+        "question": "Comment dit-on 'Cuire ou cuisiner' en espagnol ?",
+        "réponse": "Cocinar",
+        "moyen_mnémotechnique": "'Cocinar' et 'cuisiner' ont tous deux un 'c' et un 'n'."
+    },
+    {
+        "question": "Comment dit-on 'Arroser les plantes' en espagnol ?",
+        "réponse": "Regar las plantas",
+        "moyen_mnémotechnique": "'Regar' peut être associé à 'regarder' les plantes, mais c’est les arroser."
+    },
+    {
+        "question": "Comment dit-on 'Visiter un musée' en espagnol ?",
+        "réponse": "Visitar un museo",
+        "moyen_mnémotechnique": "'Visitar' et 'visiter' sont presque identiques."
+    },
+    {
+        "question": "Comment dit-on 'Peindre' en espagnol ?",
+        "réponse": "Pintar",
+        "moyen_mnémotechnique": "'Pintar' et 'peindre' commencent tous deux par un 'p'."
+    },
+    {
+        "question": "Comment dit-on 'Acheter des vêtements' en espagnol ?",
+        "réponse": "Comprar ropa",
+        "moyen_mnémotechnique": "'Comprar' et 'acheter' sont tous deux des actions liées aux courses."
+    },
+    {
+        "question": "Comment dit-on 'Parler' en espagnol ?",
+        "réponse": "Hablar",
+        "moyen_mnémotechnique": "'Hablar' et 'parler' sont des actions de communication."
+    },
+    {
+        "question": "Comment dit-on 'Écouter de la musique' en espagnol ?",
+        "réponse": "Escuchar música",
+        "moyen_mnémotechnique": "'Escuchar' et 'écouter' commencent tous deux par un 'e' et contiennent un 'c'."
+    },
+    {
+        "question": "Comment dit-on 'Danser' en espagnol ?",
+        "réponse": "Bailar",
+        "moyen_mnémotechnique": "'Bailar' et 'ballet' commencent par 'bai-' et 'bal-', tous deux liés à la danse."
+    },
+    {
+        "question": "Comment dit-on 'Jouer aux jeux vidéo' en espagnol ?",
+        "réponse": "Jugar videojuegos",
+        "moyen_mnémotechnique": "'Jugar' et 'jouer' commencent tous deux par un 'j'."
+    },
+    {
+        "question": "Comment dit-on 'Nager' en espagnol ?",
+        "réponse": "Nadar",
+        "moyen_mnémotechnique": "'Nadar' et 'nager' commencent tous deux par un 'n'."
+    },
+    {
+        "question": "Comment dit-on 'Dessiner' en espagnol ?",
+        "réponse": "Dibujar",
+        "moyen_mnémotechnique": "'Dibujar' et 'dessiner' commencent tous deux par un 'd'."
+    },
+    {
+        "question": "Comment dit-on 'Faire de l'exercice' en espagnol ?",
+        "réponse": "Hacer ejercicio",
+        "moyen_mnémotechnique": "'Hacer' et 'faire' sont des verbes d'action."
+    },
+    {
+        "question": "Comment dit-on 'Regarder la télévision' en espagnol ?",
+        "réponse": "Ver la televisión",
+        "moyen_mnémotechnique": "'Ver' et 'regarder' sont tous deux liés à la vision."
+    },
+    {
+        "question": "Comment dit-on 'Manger' en espagnol ?",
+        "réponse": "Comer",
+        "moyen_mnémotechnique": "'Comer' et 'manger' sont des verbes liés à l'alimentation."
+    },
+    {
+        "question": "Comment dit-on 'Dormir' en espagnol ?",
+        "réponse": "Dormir",
+        "moyen_mnémotechnique": "'Dormir' est identique en espagnol et en français."
+    },
+    {
+        "question": "Comment dit-on 'Laver la vaisselle' en espagnol ?",
+        "réponse": "Lavar los platos",
+        "moyen_mnémotechnique": "'Lavar' et 'laver' commencent tous deux par 'lav-'."
+    },
+    {
+        "question": "Comment dit-on 'Nettoyer la maison' en espagnol ?",
+        "réponse": "Limpiar la casa",
+        "moyen_mnémotechnique": "'Limpiar' et 'nettoyer' sont tous deux liés à la propreté."
+    },
+    {
+        "question": "Comment dit-on 'natación' en français ?",
+        "réponse": "natation",
+        "moyen mnémotechnique": "Imagine la natación avec un élément typique de la natation."
+    },
+    {
+        "question": "Comment dit-on 'esgrima' en français ?",
+        "réponse": "escrime",
+        "moyen mnémotechnique": "Imagine l'esgrima avec un élément typique de l'escrime."
+    },
+    {
+        "question": "Comment dit-on 'baloncesto' en français ?",
+        "réponse": "basket-ball",
+        "moyen mnémotechnique": "Imagine le baloncesto avec un élément typique du basket-ball."
+    },
+    {
+        "question": "Comment dit-on 'tenis' en français ?",
+        "réponse": "tennis",
+        "moyen mnémotechnique": "Imagine le tenis avec un élément typique du tennis."
+    },
+    {
+        "question": "Comment dit-on 'atletismo' en français ?",
+        "réponse": "athlétisme",
+        "moyen mnémotechnique": "Imagine l'atletismo avec un élément typique de l'athlétisme."
+    },
+    {
+        "question": "Comment dit-on 'boxeo' en français ?",
+        "réponse": "boxe",
+        "moyen mnémotechnique": "Imagine le boxeo avec un élément typique de la boxe."
+    },
+    {
+        "question": "Comment dit-on 'patinaje' en français ?",
+        "réponse": "patinage",
+        "moyen mnémotechnique": "Imagine le patinaje avec un élément typique du patinage."
+    },
+    {
+        "question": "Comment dit-on 'paracaidismo' en français ?",
+        "réponse": "parachutisme",
+        "moyen mnémotechnique": "Imagine le paracaidismo avec un élément typique du parachutisme."
+    },
+    {
+        "question": "Comment dit-on 'ciclismo' en français ?",
+        "réponse": "cyclisme",
+        "moyen mnémotechnique": "Imagine le ciclismo avec un élément typique du cyclisme."
+    },
+    {
+        "question": "Comment dit-on 'halterofilia' en français ?",
+        "réponse": "haltérophilie",
+        "moyen mnémotechnique": "Imagine l'halterofilia avec un élément typique de l'haltérophilie."
+    },
+    {
+        "question": "Comment dit-on 'tiro con arco' en français ?",
+        "réponse": "tir à l'arc",
+        "moyen mnémotechnique": "Imagine le tiro con arco avec un élément typique du tir à l'arc."
+    },
+    {
+        "question": "Comment dit-on 'golf' en français ?",
+        "réponse": "golf",
+        "moyen mnémotechnique": "Imagine le golf avec un élément typique du golf."
+    },
+    {
+        "question": "Comment dit-on 'bolos' en français ?",
+        "réponse": "quilles",
+        "moyen mnémotechnique": "Imagine les bolos avec un élément typique des quilles."
+    },
+    {
+        "question": "Comment dit-on 'surf' en français ?",
+        "réponse": "surf",
+        "moyen mnémotechnique": "Imagine le surf avec un élément typique du surf."
+    },
+    {
+        "question": "Comment dit-on 'fútbol' en français ?",
+        "réponse": "football",
+        "moyen mnémotechnique": "Imagine le fútbol avec un élément typique du football."
+    },
+    {
+        "question": "Comment dit-on 'balonmano en silla de ruedas' en français ?",
+        "réponse": "handball en fauteuil roulant",
+        "moyen mnémotechnique": "Imagine le balonmano en silla de ruedas avec un élément typique du handball en fauteuil roulant."
+    },
+    {
+        "question": "Comment dit-on 'gimnasia' en français ?",
+        "réponse": "gymnastique",
+        "moyen mnémotechnique": "Imagine la gimnasia avec un élément typique de la gymnastique."
+    },
+    {
+        "question": "Comment dit-on 'bolera' en français ?",
+        "réponse": "bowling",
+        "moyen mnémotechnique": "Imagine la bolera avec un élément typique du bowling."
+    },
+    {
+        "question": "Comment dit-on 'escalada' en français ?",
+        "réponse": "escalade",
+        "moyen mnémotechnique": "Imagine l'escalada avec un élément typique de l'escalade."
+    },
+    {
+        "question": "Comment dit-on 'buceo' en français ?",
+        "réponse": "plongée",
+        "moyen mnémotechnique": "Imagine le buceo avec un élément typique de la plongée."
+    },
+    {
+        "question": "Comment dit-on 'waterpolo' en français ?",
+        "réponse": "water-polo",
+        "moyen mnémotechnique": "Imagine le waterpolo avec un élément typique du water-polo."
+    },
+    {
+        "question": "Comment dit-on 'hockey' en français ?",
+        "réponse": "hockey",
+        "moyen mnémotechnique": "Imagine le hockey avec un élément typique du hockey."
+    },
+    {
+        "question": "Comment dit-on 'fútbol americano' en français ?",
+        "réponse": "football américain",
+        "moyen mnémotechnique": "Imagine le fútbol americano avec un élément typique du football américain."
+    },
+    {
+        "question": "Comment dit-on 'beisbol' en français ?",
+        "réponse": "baseball",
+        "moyen mnémotechnique": "Imagine le beisbol avec un élément typique du baseball."
+    },
+    {
+        "question": "Comment dit-on 'voleibol de playa' en français ?",
+        "réponse": "volleyball de plage",
+        "moyen mnémotechnique": "Imagine le voleibol de playa avec un élément typique du volleyball de plage."
+    },
+    {
+        "question": "Comment dit-on 'tenis de mesa' en français ?",
+        "réponse": "tennis de table",
+        "moyen mnémotechnique": "Imagine le tenis de mesa avec un élément typique du tennis de table."
+    },
+    {
+        "question": "Comment dit-on 'esquí acuático' en français ?",
+        "réponse": "ski nautique",
+        "moyen mnémotechnique": "Imagine l'esquí acuático avec un élément typique du ski nautique."
+    },
+    {
+        "question": "Comment dit-on 'rugby' en français ?",
+        "réponse": "rugby",
+        "moyen mnémotechnique": "Imagine le rugby avec un élément typique du rugby."
+    },
+    {
+        "question": "Comment dit-on 'bádminton' en français ?",
+        "réponse": "badminton",
+        "moyen mnémotechnique": "Imagine le bádminton avec un élément typique du badminton."
+    },
+    {
+        "question": "Comment dit-on 'saltos' en français ?",
+        "réponse": "plongeon",
+        "moyen mnémotechnique": "Imagine les saltos avec un élément typique du plongeon."
+    },
+    {
+        "question": "Comment dit-on 'balonmano' en français ?",
+        "réponse": "handball",
+        "moyen mnémotechnique": "Imagine le balonmano avec un élément typique du handball."
+    },
+    {
+        "question": "Comment dit-on 'deportes de raqueta no identificados' en français ?",
+        "réponse": "sport de raquette non identifié",
+        "moyen mnémotechnique": "Imagine les deportes de raqueta no identificados avec un élément typique d'un sport de raquette non identifié."
+    },
+    {
+        "question": "Comment dit-on 'deportes de pelota no identificados' en français ?",
+        "réponse": "sport de balle non identifié",
+        "moyen mnémotechnique": "Imagine les deportes de pelota no identificados avec un élément typique d'un sport de balle non identifié."
+    }
+]
