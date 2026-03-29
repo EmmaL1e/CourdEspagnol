@@ -1,0 +1,69 @@
+Les activités pt 2
+
+[
+  {
+    "question": "Comment dit-on 'Le judo' en espagnol ?",
+    "réponse": "El judo",
+    "moyen_mnémotechnique": "Pense à 'judo' qui se prononce presque pareil en français et en espagnol, seul l'article change : 'el' au lieu de 'le'."
+  },
+  {
+    "question": "Comment dit-on 'Le basket' en espagnol ?",
+    "réponse": "El baloncesto",
+    "moyen_mnémotechnique": "'Balón' signifie 'ballon' en espagnol. Ajoute 'cesto' (panier) pour former 'baloncesto'."
+  },
+  {
+    "question": "Comment dit-on 'Le handball' en espagnol ?",
+    "réponse": "El balonmano",
+    "moyen_mnémotechnique": "'Balón' (ballon) + 'mano' (main) = 'balonmano'. Imagine un ballon dans la main !"
+  },
+  {
+    "question": "Comment dit-on 'La course à pied' en espagnol ?",
+    "réponse": "Correr (ou el atletismo si on parle de sport)",
+    "moyen_mnémotechnique": "'Correr' ressemble à 'courir'. Pour 'atletismo', pense à 'athlétisme' en français."
+  },
+  {
+    "question": "Comment dit-on 'Le golf' en espagnol ?",
+    "réponse": "El golf",
+    "moyen_mnémotechnique": "C'est un mot international, il reste identique en espagnol."
+  },
+  {
+    "question": "Comment dit-on 'Le ski' en espagnol ?",
+    "réponse": "El esquí",
+    "moyen_mnémotechnique": "Pense à 'esquiver' en français, qui a une sonorité proche."
+  },
+  {
+    "question": "Comment dit-on 'Le surf' en espagnol ?",
+    "réponse": "El surf",
+    "moyen_mnémotechnique": "Un autre mot international, il ne change pas en espagnol."
+  },
+  {
+    "question": "Comment dit-on 'Le bowling' en espagnol ?",
+    "réponse": "Los bolos (ou el bóling)",
+    "moyen_mnémotechnique": "'Bolos' ressemble à 'boules', et 'bóling' est proche de 'bowling'."
+  },
+  {
+    "question": "Comment dit-on 'Peindre' en espagnol ?",
+    "réponse": "Pintar",
+    "moyen_mnémotechnique": "Pense à 'peinture' en français, qui commence par 'peint-' comme 'pintar'."
+  },
+  {
+    "question": "Comment dit-on 'Arroser les plantes' en espagnol ?",
+    "réponse": "Regar las plantas",
+    "moyen_mnémotechnique": "'Regar' ressemble à 'arroser' et 'plantas' à 'plantes'."
+  },
+  {
+    "question": "Comment dit-on 'Lire' en espagnol ?",
+    "réponse": "Leer",
+    "moyen_mnémotechnique": "Prononce 'leer' comme 'lé-er', un peu comme 'lire' en français."
+  },
+  {
+    "question": "Comment dit-on 'Jouer aux jeux vidéo' en espagnol ?",
+    "réponse": "Jugar a los videojuegos",
+    "moyen_mnémotechnique": "'Jugar' signifie 'jouer', et 'videojuegos' est très proche de 'jeux vidéo'."
+  },
+  {
+    "question": "Comment dit-on 'Jouer de la guitare' en espagnol ?",
+    "réponse": "Tocar la guitarra",
+    "moyen_mnémotechnique": "'Tocar' signifie 'toucher' ou 'jouer d'un instrument', et 'guitarra' est presque identique à 'guitare'."
+  }
+]

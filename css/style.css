@@ -411,3 +411,63 @@ header p {
 .hidden {
     display: none !important;
 }
+
+/* Verbs Specific */
+.module-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+    margin-top: 3rem;
+}
+
+.method-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.method-card {
+    background: var(--bg-card);
+    backdrop-filter: blur(12px);
+    border: 1px solid var(--glass-border);
+    border-radius: 2rem;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+}
+
+.method-card:hover {
+    transform: translateY(-5px);
+}
+
+.method-header {
+    background: linear-gradient(135deg, var(--primary), var(--secondary));
+    padding: 1.5rem;
+    text-align: center;
+}
+
+.method-header h3 {
+    font-size: 1.5rem;
+    color: white;
+}
+
+.method-body {
+    padding: 2rem;
+    line-height: 1.6;
+    color: var(--text-main);
+}
+
+.method-body strong {
+    color: var(--secondary);
+}
+
+.verb-cue {
+    display: inline-block;
+    font-size: 1rem;
+    color: var(--primary);
+    background: rgba(255, 255, 255, 0.05);
+    padding: 0.2rem 0.5rem;
+    border-radius: 0.4rem;
+    margin: 0 0.5rem;
+    font-weight: 700;
+}

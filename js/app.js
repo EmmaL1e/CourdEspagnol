@@ -12,7 +12,9 @@ class SpanishApp {
         this.screens = {
             home: document.getElementById('home-screen'),
             quiz: document.getElementById('quiz-screen'),
-            revision: document.getElementById('revision-screen')
+            revision: document.getElementById('revision-screen'),
+            verbModules: document.getElementById('verb-modules-screen'),
+            method: document.getElementById('method-screen')
         };
         this.themeGrid = document.getElementById('theme-grid');
         this.modeOverlay = document.getElementById('mode-overlay');
@@ -65,6 +67,17 @@ class SpanishApp {
         this.modeOverlay.style.display = 'flex';
         document.getElementById('modal-theme-name').innerText = theme.nameEs;
         document.getElementById('modal-theme-desc').innerText = theme.nameFr;
+
+        const stdBtns = document.getElementById('standard-mode-btns');
+        const verbBtns = document.getElementById('verb-mode-btns');
+
+        if (theme.id === 'verbs') {
+            stdBtns.classList.add('hidden');
+            verbBtns.classList.remove('hidden');
+        } else {
+            stdBtns.classList.remove('hidden');
+            verbBtns.classList.add('hidden');
+        }
     }
 
     hideModal() {
@@ -87,6 +100,35 @@ class SpanishApp {
         this.hideModal();
         this.switchScreen('revision');
         this.renderRevision();
+    }
+
+    startVerbMethod() {
+        this.hideModal();
+        this.switchScreen('method');
+        this.renderVerbMethod();
+    }
+
+    showVerbModules() {
+        this.hideModal();
+        this.switchScreen('verbModules');
+    }
+
+    renderVerbMethod() {
+        const content = document.getElementById('method-content');
+        content.innerHTML = '';
+        verbSpecialData.methods.forEach(method => {
+            const card = document.createElement('div');
+            card.className = 'method-card';
+            card.innerHTML = `
+                <div class="method-header">
+                    <h3>${method.title}</h3>
+                </div>
+                <div class="method-body">
+                    <p>${method.content}</p>
+                </div>
+            `;
+            content.appendChild(card);
+        });
     }
 
     renderRevision() {
@@ -139,6 +181,7 @@ class SpanishApp {
 
     startQuiz() {
         this.currentMode = 'quiz';
+        this.currentVerbModule = null;
         this.hideModal();
         this.switchScreen('quiz');
         
@@ -147,8 +190,21 @@ class SpanishApp {
             ? themesData.flatMap(t => t.questions)
             : themesData.find(t => t.id === this.currentTheme.id).questions;
         
+        this.initQuizSession(allQuestions);
+    }
+
+    startVerbFillIn(module) {
+        this.currentMode = 'quiz';
+        this.currentVerbModule = module;
+        this.switchScreen('quiz');
+        
+        const allQuestions = verbSpecialData.fillIn[module];
+        this.initQuizSession(allQuestions);
+    }
+
+    initQuizSession(questions) {
         // Select 10 random
-        this.sessionPool = this.getRandomSubset(allQuestions, 10).map(q => ({
+        this.sessionPool = this.getRandomSubset(questions, 10).map(q => ({
             ...q,
             id: Math.random().toString(36).substr(2, 9),
             streak: 0,
@@ -176,7 +232,14 @@ class SpanishApp {
         this.nextBtn.classList.add('hidden');
         
         const q = this.sessionPool[this.currentQuestionIndex];
-        document.getElementById('question-text').innerText = q.q;
+        
+        // Handle Fill-in-the-blank display
+        if (q.q.includes('___')) {
+            document.getElementById('question-text').innerHTML = q.q.replace('[', '<span class="verb-cue">').replace(']', '</span>');
+        } else {
+            document.getElementById('question-text').innerText = q.q;
+        }
+        
         document.getElementById('current-q-num').innerText = this.currentQuestionIndex + 1;
         
         const progress = (this.currentQuestionIndex / this.sessionPool.length) * 100;
@@ -263,9 +326,14 @@ class SpanishApp {
     finishSeries() {
         const itemsToRepeat = this.sessionPool.filter(q => !q.completed);
         
-        const allQuestions = this.isAllThemes 
-            ? themesData.flatMap(t => t.questions)
-            : themesData.find(t => t.id === this.currentTheme.id).questions;
+        let allQuestions;
+        if (this.currentVerbModule) {
+            allQuestions = verbSpecialData.fillIn[this.currentVerbModule];
+        } else {
+            allQuestions = this.isAllThemes 
+                ? themesData.flatMap(t => t.questions)
+                : themesData.find(t => t.id === this.currentTheme.id).questions;
+        }
             
         const usedAnswers = new Set(this.sessionPool.map(q => q.a));
         const availableNew = allQuestions.filter(q => !usedAnswers.has(q.a));

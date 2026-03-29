@@ -1,0 +1,99 @@
+La ville pt 2 :
+
+[
+  {
+    "question": "Comment dit-on 'La table' en espagnol ?",
+    "réponse": "La mesa",
+    "moyen_mnémotechnique": "Imagine une 'mesa' (table) où tu manges des 'maïs' (mesa/maïs)."
+  },
+  {
+    "question": "Comment dit-on 'Le meuble' en espagnol ?",
+    "réponse": "El mueble",
+    "moyen_mnémotechnique": "'Mueble' ressemble à 'meuble', et les deux commencent par 'm'."
+  },
+  {
+    "question": "Comment dit-on 'Les chaises' en espagnol ?",
+    "réponse": "Las sillas",
+    "moyen_mnémotechnique": "Pense à 'sillas' comme à des chaises qui 'sifflent' quand on les déplace."
+  },
+  {
+    "question": "Comment dit-on 'Les coussins' en espagnol ?",
+    "réponse": "Los cojines",
+    "moyen_mnémotechnique": "'Cojines' sonne comme 'coquin' : des coussins coquins pour se détendre !"
+  },
+  {
+    "question": "Comment dit-on 'L'armoire' en espagnol ?",
+    "réponse": "El armario",
+    "moyen_mnémotechnique": "'Armario' contient 'armé' : ton armoire est armée contre le désordre !"
+  },
+  {
+    "question": "Comment dit-on 'La lampe' en espagnol ?",
+    "réponse": "La lámpara",
+    "moyen_mnémotechnique": "'Lámpara' ressemble à 'lampe' et contient 'lamp' en anglais."
+  },
+  {
+    "question": "Comment dit-on 'Le garage' en espagnol ?",
+    "réponse": "El garaje",
+    "moyen_mnémotechnique": "'Garaje' ressemble à 'garage' en français, avec un 'j' à la place du 'g' final."
+  },
+  {
+    "question": "Comment dit-on 'La bibliothèque' en espagnol ?",
+    "réponse": "La biblioteca",
+    "moyen_mnémotechnique": "'Biblioteca' contient 'bibli' comme 'bibliothèque'."
+  },
+  {
+    "question": "Comment dit-on 'La buanderie' en espagnol ?",
+    "réponse": "El lavadero",
+    "moyen_mnémotechnique": "'Lavadero' vient de 'laver' : c’est là où on lave le linge."
+  },
+  {
+    "question": "Comment dit-on 'La salle de bains' en espagnol ?",
+    "réponse": "El baño",
+    "moyen_mnémotechnique": "'Baño' ressemble à 'bain' en français."
+  },
+  {
+    "question": "Comment dit-on 'La terrasse' en espagnol ?",
+    "réponse": "La terraza",
+    "moyen_mnémotechnique": "'Terraza' contient 'terre' : une terrasse est souvent en plein air, sur la terre."
+  },
+  {
+    "question": "Comment dit-on 'Le jardin' en espagnol ?",
+    "réponse": "El jardín",
+    "moyen_mnémotechnique": "'Jardín' ressemble à 'jardin' en français, avec un accent sur le 'i'."
+  },
+  {
+    "question": "Comment dit-on 'La salle à manger' en espagnol ?",
+    "réponse": "El comedor",
+    "moyen_mnémotechnique": "'Comedor' vient de 'comer' (manger) : c’est là où on mange !"
+  },
+  {
+    "question": "Comment dit-on 'Les maisons mitoyennes' en espagnol ?",
+    "réponse": "Las casas adosadas",
+    "moyen_mnémotechnique": "'Adosadas' vient de 'adossées' : des maisons collées l’une à l’autre."
+  },
+  {
+    "question": "Comment dit-on 'Le palace' en espagnol ?",
+    "réponse": "El palacio",
+    "moyen_mnémotechnique": "'Palacio' ressemble à 'palace' en français."
+  },
+  {
+    "question": "Comment dit-on 'L'appartement' en espagnol ?",
+    "réponse": "El apartamento",
+    "moyen_mnémotechnique": "'Apartamento' ressemble à 'appartement', avec un 'o' à la fin."
+  },
+  {
+    "question": "Comment dit-on 'El ático' en français ?",
+    "réponse": "Le grenier / L'attique",
+    "moyen_mnémotechnique": "'Ático' sonne comme 'attique' : c’est tout en haut de l’immeuble."
+  },
+  {
+    "question": "Comment dit-on 'La maison de campagne' en espagnol ?",
+    "réponse": "La casa de campo",
+    "moyen_mnémotechnique": "'Casa de campo' signifie littéralement 'maison des champs'."
+  },
+  {
+    "question": "Comment dit-on 'La villa' en espagnol ?",
+    "réponse": "La villa",
+    "moyen_mnémotechnique": "Le mot est identique en français et en espagnol !"
+  }
+]

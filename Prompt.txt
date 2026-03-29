@@ -1,0 +1,16 @@
+Je voudrais développer une application web (HTML, CSS et Javascript uniquement) qui me permet de tester mon espagnol.
+Je suis niveau A1.
+
+Laisse moi choisir sur la page d'accueil si je veux tester un thème ou tous les thèmes.
+Dans chaque thème fais une partie questionnaire et une partie révision avec des carte reprenant les question du questionnaire en mettant la partie Français en recto et en verso l'espagnol. Quand je clique elles se retournent. Dans la partie révision trie les mots en sous-thème.
+
+Dans la partie questionnaire, fais moi des quizz de 10 questions aléatoire dans le thème, fais toujours des séries de 10 questions différentes, donne moi la réponse a chaque question. Si ma réponse n'est pas bonne, affiche la réponse avec un petit moyen mnémotechnique pour que je m'en rappelle la prochaine fois.
+
+Si je rate, représente moi la question jusqu'à ce que je la réussisse deux fois. Si je réussi représente la moi une fois, si je réussi cette fois ci ne me la présente plus, si je rate représente moi la question jusqu'à ce que je la réussisse deux fois. 
+Une fois le questionnaire terminé, a ce moment intègre moi les question ou j'ai raté et de nouvelle questions.
+Je veux un bouton qui permette de passer la question dans ce cas elle est considéré comme raté.
+
+Voici les 5 thèmes a traiter que tu mettras en espagnol : Nourriture / boissons / restaurant, Ville / maison / lieux / transport, Activités / sports, l'environnement / planète, la santé / corps humains.
+
+verbes, préposition / adverbe
+

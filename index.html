@@ -84,16 +84,71 @@
             </div>
         </div>
 
+        <!-- Method Screen -->
+        <div id="method-screen" class="screen fade-in">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 3rem;">
+                <button class="btn btn-secondary" onclick="app.showHomeScreen()">
+                    <span>←</span> Retour
+                </button>
+                <h2 id="method-title">Fiches Méthode</h2>
+                <div style="width: 100px;"></div>
+            </div>
+            
+            <div id="method-content" class="method-grid">
+                <!-- Method cards will be injected here -->
+            </div>
+        </div>
+
+        <!-- Verb Modules Screen -->
+        <div id="verb-modules-screen" class="screen fade-in">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 3rem;">
+                <button class="btn btn-secondary" onclick="app.showModeSelection(app.currentTheme)">
+                    <span>←</span> Retour
+                </button>
+                <h2>Modules Texte à trous</h2>
+                <div style="width: 100px;"></div>
+            </div>
+            
+            <div class="module-grid">
+                <div class="theme-card" onclick="app.startVerbFillIn('infinitif')">
+                    <div class="icon">♾️</div>
+                    <h2>Infinitif</h2>
+                    <p>Complétez par le verbe à l'infinitif</p>
+                </div>
+                <div class="theme-card" onclick="app.startVerbFillIn('present')">
+                    <div class="icon">🕒</div>
+                    <h2>Présent</h2>
+                    <p>Conjuguez au présent de l'indicatif</p>
+                </div>
+                <div class="theme-card" onclick="app.startVerbFillIn('imperatif')">
+                    <div class="icon">📢</div>
+                    <h2>Impératif</h2>
+                    <p>Donnez un ordre (forme tú)</p>
+                </div>
+            </div>
+        </div>
+
         <!-- Mode Selection Modal -->
         <div class="mode-overlay" id="mode-overlay">
             <div class="mode-content">
                 <h2 id="modal-theme-name">Nom du Thème</h2>
                 <p style="margin-top: 1rem; color: var(--text-muted);" id="modal-theme-desc">Choisissez une activité</p>
-                <div class="btn-group">
+                
+                <!-- Standard buttons -->
+                <div class="btn-group" id="standard-mode-btns">
                     <button class="btn btn-primary" onclick="app.startQuiz()">🎯 Questionnaire (10 questions)</button>
                     <button class="btn btn-secondary" onclick="app.startRevision()">📚 Révisions (Flashcards)</button>
-                    <button class="btn btn-secondary" style="border:none; margin-top:1rem;" onclick="app.hideModal()">Annuler</button>
                 </div>
+
+                <!-- Verb-specific buttons -->
+                <div class="btn-group hidden" id="verb-mode-btns">
+                    <button class="btn btn-primary" onclick="app.startQuiz()">🎯 Questionnaire</button>
+                    <button class="btn btn-primary" onclick="app.showVerbModules()">📝 Texte à trous</button>
+                    <button class="btn btn-secondary" onclick="app.startRevision()">🎴 Flashcards</button>
+                    <button class="btn btn-secondary" onclick="app.startVerbMethod()">📖 Méthode</button>
+                </div>
+                
+                <button class="btn btn-secondary" style="border:none; margin-top:2rem;" onclick="app.hideModal()">Annuler</button>
             </div>
         </div>
     </div>

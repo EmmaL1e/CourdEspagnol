@@ -1,0 +1,389 @@
+Verbes : 
+
+[
+    {
+        "question": "Comment dit-on 'être' en espagnol ?",
+        "réponse": "ser / estar",
+        "moyen_mnémotechnique": "Pense à 'SER' pour les caractéristiques permanentes (ex: 'soy alto' = je suis grand) et 'ESTAR' pour les états temporaires (ex: 'estoy cansado' = je suis fatigué)."
+    },
+    {
+        "question": "Comment dit-on 'avoir' en espagnol ?",
+        "réponse": "tener",
+        "moyen_mnémotechnique": "Imagine un 'tennis' : tu 'tiens' ta raquette, donc tu 'tienes' quelque chose."
+    },
+    {
+        "question": "Comment dit-on 'faire' en espagnol ?",
+        "réponse": "hacer",
+        "moyen_mnémotechnique": "'Hacer' ressemble à 'hache' : tu 'haches' du bois, donc tu 'fais' une action."
+    },
+    {
+        "question": "Comment dit-on 'aller' en espagnol ?",
+        "réponse": "ir",
+        "moyen_mnémotechnique": "'Ir' ressemble à 'ire' en français (colère) : quand tu es en colère, tu 'vas' quelque part pour te calmer."
+    },
+    {
+        "question": "Comment dit-on 'dire' en espagnol ?",
+        "réponse": "decir",
+        "moyen_mnémotechnique": "'Decir' contient 'dire' en français, c'est presque pareil !"
+    },
+    {
+        "question": "Comment dit-on 'pouvoir' en espagnol ?",
+        "réponse": "poder",
+        "moyen_mnémotechnique": "'Poder' ressemble à 'pote' : ton pote peut t'aider, donc il 'peut'."
+    },
+    {
+        "question": "Comment dit-on 'devoir' en espagnol ?",
+        "réponse": "deber",
+        "moyen_mnémotechnique": "'Deber' contient 'devoir' en français, c'est presque identique."
+    },
+    {
+        "question": "Comment dit-on 'vouloir' en espagnol ?",
+        "réponse": "querer",
+        "moyen_mnémotechnique": "'Querer' ressemble à 'cœur' : tu veux quelque chose avec tout ton cœur."
+    },
+    {
+        "question": "Comment dit-on 'savoir' en espagnol ?",
+        "réponse": "saber",
+        "moyen_mnémotechnique": "'Saber' ressemble à 'saveur' : tu 'sais' reconnaître les saveurs."
+    },
+    {
+        "question": "Comment dit-on 'aller (en transport)' en espagnol ?",
+        "réponse": "ir",
+        "moyen_mnémotechnique": "Même verbe que 'aller' à pied, mais imagine-toi en train de prendre un bus ou un train."
+    },
+    {
+        "question": "Comment dit-on 'venir' en espagnol ?",
+        "réponse": "venir",
+        "moyen_mnémotechnique": "C'est presque le même mot qu'en français !"
+    },
+    {
+        "question": "Comment dit-on 'voir' en espagnol ?",
+        "réponse": "ver",
+        "moyen_mnémotechnique": "'Ver' ressemble à 'vert' : tu vois la couleur verte."
+    },
+    {
+        "question": "Comment dit-on 'donner' en espagnol ?",
+        "réponse": "dar",
+        "moyen_mnémotechnique": "'Dar' ressemble à 'don' : tu donnes un cadeau."
+    },
+    {
+        "question": "Comment dit-on 'prendre' en espagnol ?",
+        "réponse": "tomar",
+        "moyen_mnémotechnique": "'Tomar' ressemble à 'tomate' : tu prends une tomate dans le frigo."
+    },
+    {
+        "question": "Comment dit-on 'mettre' en espagnol ?",
+        "réponse": "poner",
+        "moyen_mnémotechnique": "'Poner' ressemble à 'poser' : tu poses/mets quelque chose sur la table."
+    },
+    {
+        "question": "Comment dit-on 'partir' en espagnol ?",
+        "réponse": "salir",
+        "moyen_mnémotechnique": "'Salir' contient 'sortir' : tu sors/parts de chez toi."
+    },
+    {
+        "question": "Comment dit-on 'connaître' en espagnol ?",
+        "réponse": "conocer",
+        "moyen_mnémotechnique": "'Conocer' contient 'con' (avec) : tu connais quelqu'un quand tu es avec lui."
+    },
+    {
+        "question": "Comment dit-on 'vivre' en espagnol ?",
+        "réponse": "vivir",
+        "moyen_mnémotechnique": "C'est presque le même mot qu'en français !"
+    },
+    {
+        "question": "Comment dit-on 'croire' en espagnol ?",
+        "réponse": "creer",
+        "moyen_mnémotechnique": "'Creer' ressemble à 'créer' : tu crois en ce que tu crées."
+    },
+    {
+        "question": "Comment dit-on 'parler' en espagnol ?",
+        "réponse": "hablar",
+        "moyen_mnémotechnique": "'Hablar' contient 'bla' : tu fais 'bla bla' quand tu parles."
+    },
+    {
+        "question": "Comment dit-on 'aimer' en espagnol ?",
+        "réponse": "amar",
+        "moyen_mnémotechnique": "'Amar' ressemble à 'amour' : tu aimes avec amour."
+    },
+    {
+        "question": "Comment dit-on 'passer' en espagnol ?",
+        "réponse": "pasar",
+        "moyen_mnémotechnique": "'Pasar' contient 'pas' : tu passes un pas (une étape)."
+    },
+    {
+        "question": "Comment dit-on 'laisser' en espagnol ?",
+        "réponse": "dejar",
+        "moyen_mnémotechnique": "'Dejar' ressemble à 'déjà' : tu laisses quelque chose que tu as déjà utilisé."
+    },
+    {
+        "question": "Comment dit-on 'rester' en espagnol ?",
+        "réponse": "quedar",
+        "moyen_mnémotechnique": "'Quedar' contient 'quai' : tu restes sur le quai en attendant le train."
+    },
+    {
+        "question": "Comment dit-on 'trouver' en espagnol ?",
+        "réponse": "encontrar",
+        "moyen_mnémotechnique": "'Encontrar' contient 'trou' : tu trouves un trou dans le sol."
+    },
+    {
+        "question": "Comment dit-on 'appeler' en espagnol ?",
+        "réponse": "llamar",
+        "moyen_mnémotechnique": "'Llamar' contient 'la' et 'mar' : tu appelles quelqu'un près de la mer."
+    },
+    {
+        "question": "Comment dit-on 'penser' en espagnol ?",
+        "réponse": "pensar",
+        "moyen_mnémotechnique": "C'est presque le même mot qu'en français !"
+    },
+    {
+        "question": "Comment dit-on 'sortir' en espagnol ?",
+        "réponse": "salir",
+        "moyen_mnémotechnique": "Même verbe que 'partir' : tu sors de chez toi."
+    },
+    {
+        "question": "Comment dit-on 'comprendre' en espagnol ?",
+        "réponse": "entender",
+        "moyen_mnémotechnique": "'Entender' contient 'tendre' : tu tends l'oreille pour comprendre."
+    },
+    {
+        "question": "Comment dit-on 'devenir' en espagnol ?",
+        "réponse": "llegar a ser",
+        "moyen_mnémotechnique": "'Llegar' (arriver) + 'ser' (être) : tu arrives à être quelque chose."
+    },
+    {
+        "question": "Comment dit-on 'devoir (obligation)' en espagnol ?",
+        "réponse": "deber",
+        "moyen_mnémotechnique": "Même verbe que 'devoir' (avoir une dette) : tu dois faire quelque chose."
+    },
+    {
+        "question": "Comment dit-on 'sembler' en espagnol ?",
+        "réponse": "parecer",
+        "moyen_mnémotechnique": "'Parecer' contient 'paraître' : quelque chose paraît/semble vrai."
+    },
+    {
+        "question": "Comment dit-on 'manquer' en espagnol ?",
+        "réponse": "faltar",
+        "moyen_mnémotechnique": "'Faltar' contient 'faute' : il manque quelque chose, c'est une faute."
+    },
+    {
+        "question": "Comment dit-on 'attendre' en espagnol ?",
+        "réponse": "esperar",
+        "moyen_mnémotechnique": "'Esperar' contient 'espérer' : tu attends en espérant."
+    },
+    {
+        "question": "Comment dit-on 'demander' en espagnol ?",
+        "réponse": "pedir",
+        "moyen_mnémotechnique": "'Pedir' ressemble à 'pitié' : tu demandes quelque chose avec pitié."
+    },
+    {
+        "question": "Comment dit-on 'répondre' en espagnol ?",
+        "réponse": "responder",
+        "moyen_mnémotechnique": "'Responder' contient 'répondre' en français, c'est presque pareil !"
+    },
+    {
+        "question": "Comment dit-on 'perdre' en espagnol ?",
+        "réponse": "perder",
+        "moyen_mnémotechnique": "C'est presque le même mot qu'en français !"
+    },
+    {
+        "question": "Comment dit-on 'ouvrir' en espagnol ?",
+        "réponse": "abrir",
+        "moyen_mnémotechnique": "'Abrir' ressemble à 'avril' : en avril, les fleurs s'ouvrent."
+    },
+    {
+        "question": "Comment dit-on 'fermer' en espagnol ?",
+        "réponse": "cerrar",
+        "moyen_mnémotechnique": "'Cerrar' contient 'serrer' : tu serres la porte pour la fermer."
+    },
+    {
+        "question": "Comment dit-on 'offrir' en espagnol ?",
+        "réponse": "ofrecer",
+        "moyen_mnémotechnique": "'Ofrecer' contient 'offre' : tu offres un cadeau."
+    },
+    {
+        "question": "Comment dit-on 'écouter' en espagnol ?",
+        "réponse": "escuchar",
+        "moyen_mnémotechnique": "'Escuchar' contient 'écoute' : tu écoutes de la musique."
+    },
+    {
+        "question": "Comment dit-on 'lire' en espagnol ?",
+        "réponse": "leer",
+        "moyen_mnémotechnique": "'Leer' ressemble à 'lire' en français, c'est presque identique."
+    },
+    {
+        "question": "Comment dit-on 'écrire' en espagnol ?",
+        "réponse": "escribir",
+        "moyen_mnémotechnique": "'Escribir' contient 'cri' : tu écris en criant (pour t'encourager)."
+    },
+    {
+        "question": "Comment dit-on 'boire' en espagnol ?",
+        "réponse": "beber",
+        "moyen_mnémotechnique": "'Beber' ressemble à 'biberon' : tu bois avec un biberon."
+    },
+    {
+        "question": "Comment dit-on 'manger' en espagnol ?",
+        "réponse": "comer",
+        "moyen_mnémotechnique": "'Comer' ressemble à 'comestible' : tu manges ce qui est comestible."
+    },
+    {
+        "question": "Comment dit-on 'dormir' en espagnol ?",
+        "réponse": "dormir",
+        "moyen_mnémotechnique": "C'est le même mot qu'en français !"
+    },
+    {
+        "question": "Comment dit-on 'arriver' en espagnol ?",
+        "réponse": "llegar",
+        "moyen_mnémotechnique": "'Llegar' contient 'lège' : tu arrives léger après un voyage."
+    },
+    {
+        "question": "Comment dit-on 'partager' en espagnol ?",
+        "réponse": "compartir",
+        "moyen_mnémotechnique": "'Compartir' contient 'part' : tu partages une part de gâteau."
+    },
+    {
+        "question": "Comment dit-on 'jouer' en espagnol ?",
+        "réponse": "jugar",
+        "moyen_mnémotechnique": "'Jugar' contient 'jeu' : tu joues à un jeu."
+    }
+    {
+        "question": "Comment dit-on 'acheter' en espagnol ?",
+        "réponse": "comprar",
+        "moyen_mnémotechnique": "'Comprar' contient 'compter' : tu comptes ton argent avant d'acheter."
+    },
+    {
+        "question": "Comment dit-on 'vendre' en espagnol ?",
+        "réponse": "vender",
+        "moyen_mnémotechnique": "'Vender' ressemble à 'vendre' en français, c'est presque identique."
+    },
+    {
+        "question": "Comment dit-on 'travailler' en espagnol ?",
+        "réponse": "trabajar",
+        "moyen_mnémotechnique": "'Trabajar' contient 'travail' : c'est presque le même mot !"
+    },
+    {
+        "question": "Comment dit-on 'étudier' en espagnol ?",
+        "réponse": "estudiar",
+        "moyen_mnémotechnique": "'Estudiar' contient 'étude' : tu étudies pour tes examens."
+    },
+    {
+        "question": "Comment dit-on 'regarder' en espagnol ?",
+        "réponse": "mirar",
+        "moyen_mnémotechnique": "'Mirar' ressemble à 'miroir' : tu te regardes dans le miroir."
+    },
+    {
+        "question": "Comment dit-on 'entendre' en espagnol ?",
+        "réponse": "oír",
+        "moyen_mnémotechnique": "'Oír' est court comme le son que tu entends : 'oh !'"
+    },
+    {
+        "question": "Comment dit-on 'sentir' en espagnol ?",
+        "réponse": "sentir",
+        "moyen_mnémotechnique": "C'est le même mot qu'en français, mais attention à la prononciation !"
+    },
+    {
+        "question": "Comment dit-on 'toucher' en espagnol ?",
+        "réponse": "tocar",
+        "moyen_mnémotechnique": "'Tocar' ressemble à 'toc toc' : tu touches la porte en frappant."
+    },
+    {
+        "question": "Comment dit-on 'chercher' en espagnol ?",
+        "réponse": "buscar",
+        "moyen_mnémotechnique": "'Buscar' contient 'bus' : tu cherches ton bus."
+    },
+    {
+        "question": "Comment dit-on 'trouver' (rencontrer) en espagnol ?",
+        "réponse": "encontrar",
+        "moyen_mnémotechnique": "'Encontrar' contient 'contre' : tu rencontres quelqu'un par hasard."
+    },
+    {
+        "question": "Comment dit-on 'montrer' en espagnol ?",
+        "réponse": "mostrar",
+        "moyen_mnémotechnique": "'Mostrar' contient 'montrer' : c'est presque pareil !"
+    },
+    {
+        "question": "Comment dit-on 'cacher' en espagnol ?",
+        "réponse": "esconder",
+        "moyen_mnémotechnique": "'Esconder' contient 'conde' (comme un comte) : tu caches un trésor comme un comte."
+    },
+    {
+        "question": "Comment dit-on 'choisir' en espagnol ?",
+        "réponse": "elegir",
+        "moyen_mnémotechnique": "'Elegir' contient 'élégant' : tu choisis des vêtements élégants."
+    },
+    {
+        "question": "Comment dit-on 'porter' (vêtements) en espagnol ?",
+        "réponse": "llevar",
+        "moyen_mnémotechnique": "'Llevar' contient 'lève' : tu lèves ton vêtement pour le porter."
+    },
+    {
+        "question": "Comment dit-on 'gagner' en espagnol ?",
+        "réponse": "ganar",
+        "moyen_mnémotechnique": "'Ganar' ressemble à 'gain' : tu gagnes de l'argent."
+    },
+    {
+        "question": "Comment dit-on 'perdre' (un jeu) en espagnol ?",
+        "réponse": "perder",
+        "moyen_mnémotechnique": "C'est le même mot qu'en français pour 'perdre' un objet."
+    },
+    {
+        "question": "Comment dit-on 'gagner (de l'argent)' en espagnol ?",
+        "réponse": "ganar",
+        "moyen_mnémotechnique": "Même verbe que 'gagner' un jeu : tu gagnes de l'argent."
+    },
+    {
+        "question": "Comment dit-on 'commencer' en espagnol ?",
+        "réponse": "empezar",
+        "moyen_mnémotechnique": "'Empezar' contient 'pez' (poisson) : tu commences à pêcher."
+    },
+    {
+        "question": "Comment dit-on 'finir' en espagnol ?",
+        "réponse": "terminar",
+        "moyen_mnémotechnique": "'Terminar' contient 'terme' : tu mets un terme à quelque chose."
+    },
+    {
+        "question": "Comment dit-on 'construire' en espagnol ?",
+        "réponse": "construir",
+        "moyen_mnémotechnique": "C'est presque le même mot qu'en français !"
+    },
+    {
+        "question": "Comment dit-on 'détruire' en espagnol ?",
+        "réponse": "destruir",
+        "moyen_mnémotechnique": "'Destruir' contient 'désastre' : tu détruis tout, c'est un désastre."
+    },
+    {
+        "question": "Comment dit-on 'répéter' en espagnol ?",
+        "réponse": "repetir",
+        "moyen_mnémotechnique": "'Repetir' contient 'répéter' : c'est presque identique."
+    },
+    {
+        "question": "Comment dit-on 'apprendre' en espagnol ?",
+        "réponse": "aprender",
+        "moyen_mnémotechnique": "'Aprender' contient 'prendre' : tu prends des connaissances."
+    },
+    {
+        "question": "Comment dit-on 'enseigner' en espagnol ?",
+        "réponse": "enseñar",
+        "moyen_mnémotechnique": "'Enseñar' contient 'signer' : tu enseignes en signant des exemples."
+    },
+    {
+        "question": "Comment dit-on 'oublié' en espagnol ?",
+        "réponse": "olvidar",
+        "moyen_mnémotechnique": "'Olvidar' contient 'oubli' : c'est presque pareil !"
+    },
+    {
+        "question": "Comment dit-on 'se souvenir' en espagnol ?",
+        "réponse": "recordar",
+        "moyen_mnémotechnique": "'Recordar' contient 'record' : tu te souviens d'un record."
+    },
+    {
+        "question": "Comment dit-on 'attraper' en espagnol ?",
+        "réponse": "coger",
+        "moyen_mnémotechnique": "'Coger' ressemble à 'coq' : tu attrapes un coq."
+    },
+    {
+        "question": "Comment dit-on 'lancer' en espagnol ?",
+        "réponse": "lanzar",
+        "moyen_mnémotechnique": "'Lanzar' contient 'lance' : tu lances un objet."
+    }
+]
