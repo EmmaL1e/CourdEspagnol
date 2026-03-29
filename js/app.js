@@ -82,10 +82,10 @@ class SpanishApp {
 
     hideModal() {
         this.modeOverlay.style.display = 'none';
-        this.isAllThemes = false;
     }
 
     showHomeScreen() {
+        this.isAllThemes = false;
         this.switchScreen('home');
         this.hideModal();
     }
@@ -136,7 +136,7 @@ class SpanishApp {
         document.getElementById('revision-title').innerText = this.currentTheme.nameEs + " - Révisions";
         content.innerHTML = '';
 
-        const questions = this.isAllThemes 
+        const questions = (this.isAllThemes || this.currentTheme.id === 'all') 
             ? themesData.flatMap(t => t.questions)
             : themesData.find(t => t.id === this.currentTheme.id).questions;
 
@@ -186,7 +186,7 @@ class SpanishApp {
         this.switchScreen('quiz');
         
         // Prepare questions
-        const allQuestions = this.isAllThemes 
+        const allQuestions = (this.isAllThemes || this.currentTheme.id === 'all') 
             ? themesData.flatMap(t => t.questions)
             : themesData.find(t => t.id === this.currentTheme.id).questions;
         
